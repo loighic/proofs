@@ -1,0 +1,17 @@
+## proofs HW 5
+
+~~~{.ProofChecker .ForallxSLPlus options="fonts tabindent render" guides="fitch" points="2"}
+5.1 A -> (B v C), A & ~C :|-: B
+5.1 B -> (A v C), D v B, ~D :|-: A v C
+5.2 A -> (B v C), A & ~C :|-: B v ~D
+5.2 P v ~R, ~R-> S, ~P :|-: S & ~R
+5.3 ~B -> C, A v ~B, ~A :|-: D v C
+5.3 (~C v F) -> D, F, ~A :|-: ~A & D 
+5.3 (P v R) -> Q, R, S :|-: S & Q
+5.3 A & B, (C v B) -> D :|-: D & A
+5.3 P & Q, (~R v Q) -> S :|-: S & P  
+5.4 ((A & B) & ~C) & F :|-: (B v E) & ~C
+5.4 P & (~Q & (R & T)) :|-: (R v S) & P
+5.5 N & ~G, K -> (J -> T), (K v G) & J :|-: ~G & T
+5.5 A & ~G, M -> (D -> B), (M v G) & D :|-: ~G & B
+~~~

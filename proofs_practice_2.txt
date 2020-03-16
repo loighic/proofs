@@ -1,0 +1,18 @@
+## proofs, practice problems, set 2
+
+These are optional, and you can work on them with others.
+
+---
+
+~~~{.ProofChecker .ForallxSLPlus options="fonts tabindent render" guides="fitch" points="0"}
+1. P v Q, ~P, T  :|-: Q & T
+2. (C & (D -> F)) & (A & B) :|-: A & (D -> F)
+3. G & (C & (B & ~D))  :|-: ~D v F
+4. A & C, C -> D :|-: D & A
+5. ~Q & (~Q -> (P & R)) :|-: R v S
+6. A v ~B, ~B-> C, ~A :|-: C
+7. ~P -> Q, R v ~P, ~R :|-: Q 
+8. (A->B) & (B->C), A :|-: C & B
+9. (B & A) -> D, ((A & C) & B) :|-: D
+10. (B v D)-> F, ((A -> B) & (A & R)) :|-: F
+~~~

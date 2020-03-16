@@ -1,0 +1,13 @@
+## proofs HW 2
+
+Each problem is worth 2 points.
+
+--- 
+
+~~~{.ProofChecker .ForallxSLPlus options="fonts tabindent render" guides="fitch" points="2"}
+2.1 A :|-: Bv(AvC)
+2.2 ~C & (B & ~F) :|-: B
+2.3 S & (~T & (K & ~F)) :|-: K
+2.4 ~C & (B & ~F) :|-: ~F v A
+2.5 (C & T) & (~G & R) :|-: C & ~G
+~~~
