@@ -1,0 +1,13 @@
+## HW 9
+
+Each problem is worth 2 points. 
+
+---
+
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="2"}
+9.1 G -> (~H -> J) :|-: (G & ~H) -> J 
+9.2 C <-> (A -> B), B & D :|-: C
+9.3 (P -> Q) -> R, (~P v Q) & T  :|-:  R
+9.4 R <-> P, ~P  :|-: ~R
+9.5 P -> Q, ~Q :|-: ~P
+~~~
