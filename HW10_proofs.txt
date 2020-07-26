@@ -4,7 +4,7 @@ Each problem is worth 2 points.
 
 ---
 
-~~~{.ProofChecker .ForallxSLPlus options="fonts tabindent render" guides="fitch" points="2"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="2"}
 10.1 A -> B, ~(B v C) :|-: ~A
 10.2 P->Q, P->~Q :|-: ~P
 10.3 P -> Q :|-:  ~(P & ~Q)
@@ -12,13 +12,13 @@ Each problem is worth 2 points.
 
 For 10.4, do all of the `&E` and `<->E` that you can before making an assumption for `~E`.
 
-~~~{.ProofChecker .ForallxSLPlus options="fonts tabindent render" guides="fitch" points="2"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="2"}
 10.4 P <-> (~Q & S), P & (~T -> ~S) :|-: ~Q & T 
 ~~~
 
 This proof (in 10.5) requires two subproofs. Assume P first (for `->I`) and then ~Q (for `~E`).
 
-~~~{.ProofChecker .ForallxSLPlus options="fonts tabindent render" guides="fitch" points="2"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="2"}
 10.5 ~(P & ~Q) :|-:  P -> Q 
 ~~~
 
