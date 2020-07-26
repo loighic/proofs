@@ -4,26 +4,28 @@ These are optional, and you can work on them with others.
 
 ---
 
-~~~{.ProofChecker .ForallxSLPlus options="fonts tabindent render" guides="fitch" points="0"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="0"}
 0.1 (~E & Q) <-> K, K  :|-: Q 
 0.2 A <-> (D & ~C), ~C, D  :|-: A 
 0.3 P, Q, (P & Q) -> T  :|-:  T
 0.4 (S <-> ~H) & N, (N<->~H) & ~A :|-: S & ~A
 ~~~
 
-For the rest of these proofs, you need to use the `->I` rule.
+For 0.5 - 0.10, you need to use the `->I` rule.
 
-~~~{.ProofChecker .ForallxSLPlus options="fonts tabindent render" guides="fitch" points="0"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="0"}
 0.5 P v Q :|-: ~Q -> P
 ~~~
 
-To use `vE` in 0.6, 0.7, and 0.9, you also have to use the DN rule. For instance, if you have ~P v Q on a line, you need ~~P to get Q on a line by itself.  
+To use `vE` in 0.6, 0.7, and 0.9, you also have to use the double negation rule (`DN`). For instance, if you have ~P v Q on a line, you need ~~P to get Q on a line by itself.  
 
-~~~{.ProofChecker .ForallxSLPlus options="fonts tabindent render" guides="fitch" points="0"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="0"}
 0.6 ~P v Q :|-: P -> Q
 0.7 ~C v (B & D) :|-: C -> D
 0.8 P :|-: Q -> P
 0.9 ~A v D, (A <-> B) & C :|-:  B -> D
 0.10 P -> (Q -> R) :|-: (P & Q) -> R
+0.11 P -> Q, R & T, T -> (Q -> P) :|-: P <-> Q
+0.12 P -> Q , Q -> P, (Q <-> P) -> T :|-: T & (P -> Q)
 ~~~
 
