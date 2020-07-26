@@ -4,7 +4,7 @@ These are optional, and you can work on them with others.
 
 ---
 
-~~~{.ProofChecker .ForallxSLPlus options="fonts tabindent render" guides="fitch" points="0"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="0"}
 1.1 P :|-: (P v Q) v ~R
 1.2 (P & Q) & ~R :|-: Q
 1.3 (S & T) & W :|-: S
