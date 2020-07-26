@@ -10,7 +10,7 @@ These problems will not count toward your grade, but so that you can see if you 
 
 Part 1. There is no feedback on these proofs, either at the end of each line or when the proof is complete. They can be submitted at any time (whether they are complete or incomplete, correct or incorrect), and they can only be submitted once.
 
-~~~{.ProofChecker .ForallxSLPlus options="fonts tabindent render exam" feedback="none" guides="fitch" points="1"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render exam" feedback="none" guides="fitch" points="1"}
 0.1 (P&Q) & (S&T) :|-: Q&S
 0.2 R -> (P&Q), R :|-: Q v S
 0.3 PvQ, ~P, T :|-: Q&T
@@ -20,7 +20,7 @@ Part 1. There is no feedback on these proofs, either at the end of each line or 
 
 Part 2. There is no feedback on these proofs, either at the end of each line or when the proof is complete. They can only be submitted when they are complete and correct, however.
 
-~~~{.ProofChecker .ForallxSLPlus options="fonts tabindent render" feedback="none" guides="fitch" points="1"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" feedback="none" guides="fitch" points="1"}
 0.4 A->(BvC),A&~C :|-: Bv~D
 0.5 (BvC)&~A,~B :|-: DvC
 0.6 C&D,D->F :|-: F&C
@@ -30,7 +30,7 @@ Part 2. There is no feedback on these proofs, either at the end of each line or 
 
 Part 3. There is feedback for these proofs---at the end of each line and there is the green bar if you finish the proof correctly. These can be submitted at any point, whether or not they are correct or complete.
 
-~~~{.ProofChecker .ForallxSLPlus options="fonts tabindent render exam" guides="fitch" points="1"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render exam" guides="fitch" points="1"}
 0.7 ~Cv(B&D) :|-: C->D
 0.8 Qv(R&T) :|-: ~Q->T
 ~~~
@@ -39,7 +39,7 @@ Part 3. There is feedback for these proofs---at the end of each line and there i
 
 Part 4. The settings in this part are the same as they have been on the assignments.
 
-~~~{.ProofChecker .ForallxSLPlus options="fonts tabindent render" guides="fitch" points="1"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="1"}
 0.9 Q -> P :|-: P v ~Q
 0.10 ~(P v Q) :|-: ~P & ~Q
 0.11 ~(~C v ~(D <-> F)) :|-: C & (D <-> F)
