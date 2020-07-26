@@ -4,7 +4,7 @@ Each problem is worth 2 points.
 
 ---
 
-~~~{.ProofChecker .ForallxSLPlus options="fonts tabindent render" guides="fitch" points="2"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="2"}
 9.1 G -> (~H -> J) :|-: (G & ~H) -> J 
 9.2 C <-> (A -> B), B & D :|-: C
 9.3 (P -> Q) -> R, (~P v Q) & T  :|-:  R
@@ -13,6 +13,6 @@ Each problem is worth 2 points.
 
 You can't use the DN rule in problem 9.5 (although you shouldn't need it).
 
-~~~{.ProofChecker .ForallxSL options="fonts tabindent render" guides="fitch" points="2"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="2"}
 9.5 P -> Q, ~Q :|-: ~P
 ~~~
