@@ -1,0 +1,14 @@
+## HW 7
+
+Each problem is worth 2 points. For 7.4 and 7.5, you have to use `->I`.
+
+---
+
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="2"}
+7.1 G <-> (F v H), F :|-:  G
+7.2 ~P, (Rv~P) <-> (PvQ) :|-: Q
+7.3 A <-> (D & ~C), ~C, D  :|-: A
+7.4 P v Q :|-: ~P -> Q
+7.5 Q v (R & T) :|-: ~Q -> T
+~~~
+
