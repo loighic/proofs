@@ -1,0 +1,27 @@
+## HW 8
+
+8.1 through 8.5 are worth 2 points each.
+
+8.6 is extra credit and is worth 1 point. You have to use the negation-elimination rule in that proof.
+
+---
+
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="2"}
+8.1 ~Q -> (K <-> (J & B)), ~Q & K  :|-: B
+8.2 ~B v C, D & A :|-: B -> (A & C)
+~~~                                        
+
+You shouldn't need to use it, but just to let you know, because of the way that I've put the settings for 8.3, you can't use the DN rule in your proof.
+
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="2"}
+8.3 P -> Q, Q -> R :|-:  P -> R 
+~~~
+
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="2"}
+8.4 P v Q, (~P <-> R) & T :|-:  R -> Q  
+8.5 P -> (Q & R), (R v ~Q) -> ( S & T), T <-> U :|-:  P -> U
+~~~
+
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="1"}
+8.6  ~P->~Q, Q :|-: P
+~~~
