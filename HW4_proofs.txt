@@ -1,6 +1,6 @@
 ## proofs HW 4
 
-~~~{.ProofChecker .ForallxSLPlus options="fonts tabindent render" guides="fitch" points="2"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="2"}
 4.1 (P & Q) & (R & (T -> S)) :|-: Q & R
 4.1 P v Q, ~P, T  :|-: Q & T
 4.1 (P & Q) & (R & (T -> S)) :|-: P & (T -> S)
