@@ -4,7 +4,7 @@ Each problem is worth 2 points.
 
 ---
 
-~~~{.ProofChecker .ForallxSLPlus options="fonts tabindent render" guides="fitch" points="2"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="2"}
 12.1 ~P -> (S -> R), Q -> (~P v R), (~P -> S) :|-: (Q -> R)
 12.1 (S -> R), ~Q -> (S v T), S -> (R -> T) :|-: (~Q -> T)
 12.2 P -> Q :|-: ~PvQ
@@ -12,13 +12,13 @@ Each problem is worth 2 points.
 12.2 ~Q -> P :|-: PvQ  
 ~~~
 
-~~~{.ProofChecker .ForallxSLPlus options="fonts tabindent render" guides="fitch" points="2"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="2"}
 12.3 P & (Q v R) :|-: (P & Q) v (P & R)  
 12.4 B v C, B -> D, C -> D  :|-: D
 ~~~
 
 You can't use DN in your proof for 12.5 (but you shouldn't need to anyway).
 
-~~~{.ProofChecker .ForallxSL options="fonts tabindent render" guides="fitch" points="2"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="2"}
 12.5 ~(~P v ~Q) :|-: P & Q
 ~~~
