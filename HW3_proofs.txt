@@ -4,7 +4,7 @@ Both problems are worth 5 points.
 
 ---
 
-~~~{.ProofChecker .ForallxSLPlus options="fonts tabindent render" guides="fitch" points="5"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="5"}
 3.1 H -> U, S & H :|-: U
 3.1 P -> ~Q, R & P :|-: ~Q
 3.1 ~B -> C, ~B & A :|-: C
