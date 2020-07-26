@@ -4,14 +4,14 @@
 
 ---
 
-~~~{.ProofChecker .ForallxSLPlus options="fonts tabindent render" guides="fitch" points="1"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="1"}
 1.1 A :|-: AvC
 1.2 A & D :|-: D
 1.3 A & D :|-: A
 1.4 B, C :|-: B&C
 ~~~
 
-~~~{.ProofChecker .ForallxSLPlus options="fonts tabindent render" guides="fitch" points="2"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="2"}
 1.5 M -> N, M :|-: N
 1.6 F v G, ~F :|-: G
 1.7 F v G, ~G :|-: F
