@@ -6,22 +6,22 @@
 
 ---
 
-~~~{.ProofChecker .ForallxSLPlus options="fonts tabindent render" guides="fitch" points="2"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="2"}
 8.1 ~Q -> (K <-> (J & B)), ~Q & K  :|-: B
 8.2 ~B v C, D & A :|-: B -> (A & C)
 ~~~                                        
 
 You shouldn't need to use it, but just to let you know, because of the way that I've put the settings for 8.3, you can't use the DN rule in your proof.
 
-~~~{.ProofChecker .ForallxSL options="fonts tabindent render" guides="fitch" points="2"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="2"}
 8.3 P -> Q, Q -> R :|-:  P -> R 
 ~~~
 
-~~~{.ProofChecker .ForallxSLPlus options="fonts tabindent render" guides="fitch" points="2"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="2"}
 8.4 P v Q, (~P <-> R) & T :|-:  R -> Q  
 8.5 P -> (Q & R), (R v ~Q) -> ( S & T), T <-> U :|-:  P -> U
 ~~~
 
-~~~{.ProofChecker .ForallxSLPlus options="fonts tabindent render" guides="fitch" points="1"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="1"}
 8.6  ~P->~Q, Q :|-: P
 ~~~
