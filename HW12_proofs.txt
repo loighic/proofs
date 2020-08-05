@@ -17,8 +17,6 @@ Each problem is worth 2 points.
 12.4 B v C, B -> D, C -> D  :|-: D
 ~~~
 
-You can't use DN in your proof for 12.5 (but you shouldn't need to anyway).
-
 ~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="2"}
 12.5 ~(~P v ~Q) :|-: P & Q
 ~~~
