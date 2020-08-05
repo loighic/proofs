@@ -1,6 +1,6 @@
 ## HW 1: TFL rules
 
-1 - 4 are 1 point each. 5 - 7 are 2 points each.
+1 - 4 are 1 point each. 5 - 7 are 2 points each. Be sure to submit each problem. The `✓` in the green bar indicates that the problem has been checked, not that it has been submitted.
 
 ---
 
