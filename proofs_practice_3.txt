@@ -25,7 +25,5 @@ To use `vE` in 0.6, 0.7, and 0.9, you also have to use the double negation rule 
 0.8 P :|-: Q -> P
 0.9 ~A v D, (A <-> B) & C :|-:  B -> D
 0.10 P -> (Q -> R) :|-: (P & Q) -> R
-0.11 P -> Q, R & T, T -> (Q -> P) :|-: P <-> Q
-0.12 P -> Q , Q -> P, (Q <-> P) -> T :|-: T & (P -> Q)
 ~~~
 
