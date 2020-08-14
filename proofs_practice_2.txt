@@ -15,4 +15,6 @@ These are optional, and you can work on them with others.
 0.8 (A->B) & (B->C), A :|-: C & B
 0.9 (B & A) -> D, ((A & C) & B) :|-: D
 0.10 (B v D)-> F, ((A -> B) & (A & R)) :|-: F
+0.11 P -> Q, R & T, T -> (Q -> P) :|-: P <-> Q
+0.12 P -> Q , Q -> P, (Q <-> P) -> T :|-: T & (P -> Q)
 ~~~
