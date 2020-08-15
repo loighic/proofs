@@ -2,7 +2,7 @@
 
 6.1 - 6.5 are worth 2 points each. 6.6 is extra credit and is worth 1 point. 
 
-You have to use `<->E`, `<->ex`, `DN`, `->I`, `&I` and `&E` for these proofs.
+You have to use `<->E`, `<->I`, `DN`, `->I`, `&I` and `&E` for these proofs.
 
 ---
 
