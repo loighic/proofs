@@ -2,9 +2,9 @@
 
 These are optional, and you can work on them with others.
 
-The settings on these problems are, except for part 4, different than they have been on the assignments that you've done so far. These are settings that will be used on the test. 
+Except for in part 4, the settings on these problems are different than they have been on the assignments that you've done so far. These are settings that will be used on the test. 
 
-These problems will not count toward your grade, but so that you can see if you did them correctly or not, each is worth 1 point.
+These problems will not count toward your grade, but, so that you can see if you did them correctly or not, each is worth 1 point.
 
 ---
 
