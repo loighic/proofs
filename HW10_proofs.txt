@@ -5,7 +5,7 @@ Each problem is worth 2 points.
 ---
 
 ~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="2"}
-10.1 A -> B, ~(B v C) :|-: ~A
+10.1 B <-> A, ~(B v C) :|-: ~A
 10.2 P->Q, P->~Q :|-: ~P
 10.3 P -> Q :|-:  ~(P & ~Q)
 ~~~
