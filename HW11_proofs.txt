@@ -1,21 +1,21 @@
 ## HW 11
 
-Each problem is worth 2 points.
+Each problem is worth 20 points, and the whole assignment is worth 100 points. Your grade will be put on a 10 point scale when it is posted in Canvas. Problems that are submitted late recieve 14 points.
 
 ---
 
-~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="2"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="20" late-credit="14"}
 11.1 Q & R, Q -> (P v S), ~(S & R)  :|-: P
 11.2 F -> (G -> H), ~J -> (F v H), F -> G :|-: ~J -> H
 11.3 P :|-: ~P->Q 
 ~~~
 
 
-~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="2"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="20" late-credit="14"}
 11.4 ~P v ~Q :|-: ~(P & Q)
 ~~~
 
-~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="2"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="20" late-credit="14"}
 11.5 (A -> B) & (~A -> C), ~B :|-: C
 ~~~
 
