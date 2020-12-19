@@ -1,10 +1,10 @@
 ## proofs, practice problems, set 2
 
-These are optional, and you can work on them with others.
+These are optional, and you can work on them with others. They can't be submitted, but you can see whether or not you have done them correctly.
 
 ---
 
-~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="0"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" submission="none"}
 0.1 P v Q, ~P, T  :|-: Q & T
 0.2 (C & (D -> F)) & (A & B) :|-: A & (D -> F)
 0.3 G & (C & (B & ~D))  :|-: ~D v F
