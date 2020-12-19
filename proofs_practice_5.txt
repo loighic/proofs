@@ -8,7 +8,7 @@ These problems will not count toward your grade, but, so that you can see if you
 
 ---
 
-Part 1. There is no feedback on these proofs, either at the end of each line or when the proof is complete. They can be submitted at any time (whether they are complete or incomplete, correct or incorrect), and they can only be submitted once.
+__Part 1.__ There is no feedback on these proofs, either at the end of each line or when the proof is complete. They can be submitted at any time (whether they are complete or incomplete, correct or incorrect), and they can only be submitted once.
 
 ~~~{.ProofChecker .AllenSL options="fonts tabindent render exam" feedback="none" guides="fitch" points="1"}
 0.1 (P&Q) & (S&T) :|-: Q&S
@@ -18,7 +18,7 @@ Part 1. There is no feedback on these proofs, either at the end of each line or 
 
 ---
 
-Part 2. There is no feedback on these proofs, either at the end of each line or when the proof is complete. They can only be submitted when they are complete and correct, however.
+__Part 2.__ There is no feedback on these proofs, either at the end of each line or when the proof is complete. They can only be submitted when they are complete and correct, however.
 
 ~~~{.ProofChecker .AllenSL options="fonts tabindent render" feedback="none" guides="fitch" points="1"}
 0.4 A->(BvC),A&~C :|-: Bv~D
@@ -28,7 +28,7 @@ Part 2. There is no feedback on these proofs, either at the end of each line or 
 
 ---
 
-Part 3. There is feedback for these proofs---at the end of each line and there is the green bar if you finish the proof correctly. These can be submitted at any point, whether or not they are correct or complete.
+__Part 3.__ There is feedback for these proofs---at the end of each line and there is the green bar if you finish the proof correctly. These can be submitted at any point, whether or not they are correct or complete.
 
 ~~~{.ProofChecker .AllenSL options="fonts tabindent render exam" guides="fitch" points="1"}
 0.7 ~Cv(B&D) :|-: C->D
@@ -37,10 +37,14 @@ Part 3. There is feedback for these proofs---at the end of each line and there i
 
 ---
 
-Part 4. The settings in this part are the same as they have been on the assignments.
+__Part 4.__ The settings in this part are the same as they have been on the assignments, except that they can't be submitted.
 
-~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="0"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" submission="none"}
 0.9 Q -> P :|-: P v ~Q
 0.10 ~(P v Q) :|-: ~P & ~Q
 0.11 ~(~C v ~(D <-> F)) :|-: C & (D <-> F)
+0.12 :|-: ~(B & ~B)
+0.13 :|-: ~(~P & P)
+0.14 :|-: D -> (G -> D)
+0.15 :|-: (R -> T) -> ((T -> R) -> (R <-> T))
 ~~~
