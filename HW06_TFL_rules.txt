@@ -1,20 +1,19 @@
-## HW 6: TFL rules
+## HW 6
 
-6.1 - 6.5 are worth 2 points each. 6.6 is extra credit and is worth 1 point. 
+Each problem is worth 20 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 17 points.
 
-You have to use `<->E`, `<->I`, `DN`, `->I`, `&I` and `&E` for these proofs.
+You have to use the conditional introduction rule in 6.3, the negation eliminaton rule in 6.4, and the negation introduction rule in 6.5. You will also need to use the reiteration rule in 6.4 and 6.5.
 
 ---
 
-~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="2"}
-6.1 P <-> Q, P :|-: Q 
-6.2 P <-> Q, Q :|-: P
-6.3 P :|-: ~~P
-6.4 ~~Q :|-: Q
-6.5 S & T :|-: R -> T
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="20" late-credit="17"}
+6.1 ((A & B) & ~C) & F :|-: (B v E) & ~C
+6.1 P & (~Q & (R & T)) :|-: (R v S) & P
+6.2 N & ~G, (J -> T) <-> K, (K v G) & J :|-: ~G & T
+6.2 A & ~G, (D -> B) <-> M, (M v G) & D :|-: ~G & B
+6.3 S & T :|-: R -> T
+6.4 ~P -> ~Q, Q :|-: P
+6.5 P -> Q, ~Q :|-: ~P
 ~~~
 
-~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="1"}
-6.6 S -> T, T -> S :|-: T <-> S
-~~~
 
