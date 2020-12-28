@@ -1,19 +1,19 @@
 ## HW 1: TFL rules
 
-1 - 4 are 1 point each. 5 - 7 are 2 points each. Be sure to submit each problem. The `✓` in the green bar indicates that the problem has been checked, not that it has been submitted.
+Each problem is worth 10 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 9 points. Your grade will be put on a 10 point scale when it is posted in Canvas. 
 
 ---
 
-~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="1"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="10" late-credit="9"}
 1.1 A :|-: AvC
 1.2 A & D :|-: D
 1.3 A & D :|-: A
 1.4 B, C :|-: B&C
-~~~
-
-~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="2"}
-1.5 M -> N, M :|-: N
-1.6 F v G, ~F :|-: G
-1.7 F v G, ~G :|-: F
+1.5 F v G, ~F :|-: G
+1.6 F v G, ~G :|-: F
+1.7 P :|-: ~~P
+1.8 ~~Q :|-: Q
+1.9 ~P v Q, P :|-: Q 
+1.10 R v ~T, T :|-: R
 ~~~
 
