@@ -1,10 +1,12 @@
 ## HW 7
 
-Each problem is worth 2 points. For 7.4 and 7.5, you have to use `->I`.
+Each problem is worth 20 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 17 points.
+
+For 7.4 and 7.5, you have to use `->I`.
 
 ---
 
-~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="2"}
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="20" late-credit="17"}
 7.1 G <-> (F v H), F :|-:  G
 7.2 ~P, (R v ~P) <-> (P v Q) :|-: Q
 7.3 A <-> (D & ~C), ~C, D  :|-: A
