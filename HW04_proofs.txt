@@ -1,17 +1,16 @@
 ## proofs HW 4
 
+Each problem is worth 20 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 14 points. Your grade will be put on a 10 point scale when it is posted in Canvas. 
+
 ---
 
-~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="2"}
-4.1 C & (A -> B), B -> A :|-: A <-> B
-4.1 P -> Q, (Q -> P) & R :|-: P <-> Q
-4.2 C & D, D <-> F :|-: F & C
-4.2 P <-> R, Q & R :|-: P & Q
-4.3 P v ~R, S <-> ~R, ~P :|-: S
-4.3 C <-> ~B, A v ~B, ~A :|-: C 
-4.4 P->Q, R<->P, P :|-: Q & R
-4.4 A->B, C<->B, A :|-: B & C
-4.4 T <-> S, T -> W, S :|-: T & W
-4.5 (T & Q) & R,  (T & R) -> S :|-: S
-4.5 P -> ~Q, (~Q v R)-> ~S, P & T :|-: ~S
+~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="20" late-credit="14"}
+4.1 (R & T), (T -> Q) :|-: (Q v P)
+4.2 ([B v ~D] & C), D :|-: B 
+4.3 C & (A -> B), B -> A :|-: A <-> B
+4.3 P -> Q, (Q -> P) & R :|-: P <-> Q
+4.4 C & D, D <-> F :|-: F & C
+4.4 P <-> R, Q & R :|-: P & Q
+4.5 P v ~R, S <-> ~R, ~P :|-: S
+4.5 C <-> ~B, A v ~B, ~A :|-: C 
 ~~~
