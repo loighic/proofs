@@ -2,6 +2,8 @@
 
 These are optional, and you can work on them with others. They can't be submitted, but you can see whether or not you have done them correctly.
 
+Problems 0.1 - 0.8 and 0.13 - 0.15 use the rules that are in sections 14.2 and 14.3. Problems 0.9 - 0.12 use those rules plus the conditional elimination rule (section 14.4).
+
 ---
 
 ~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" submission="none"}
@@ -18,4 +20,7 @@ These are optional, and you can work on them with others. They can't be submitte
 0.10 C -> (B & A), C :|-: A
 0.11 (A & C) -> B, C, A  :|-: B
 0.12 A v ~B, ~B -> C, ~A :|-: C
+0.13 P v Q, ~P v R, ~Q :|-: ~Q & R
+0.14 ~R v ~S, S & T :|-: ~R & T
+0.15 ~(B v C) v D, B :|-: D
 ~~~
