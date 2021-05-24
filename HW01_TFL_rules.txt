@@ -4,7 +4,7 @@ Each problem is worth 10 points, and the whole assignment is worth 100 points. P
 
 ---
 
-~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="10" late-credit="9"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="10" late-credit="9"}
 1.1 A :|-: AvC
 1.2 A & D :|-: D
 1.3 A & D :|-: A
