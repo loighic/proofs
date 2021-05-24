@@ -11,7 +11,7 @@ Each problem is worth 1 point, there are 16 problems, and the maximum score is 1
 
 __I.__
 
-~~~{.ProofChecker .AllenSL options="fonts tabindent render exam" feedback="none" guides="fitch" points="1"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render exam" feedback="none" guides="fitch" points="1" late-credit="1"}
 0.1 P :|-: (P v Q) v ~R
 0.2 (P & Q) & ~R :|-: Q
 0.3 (S & T) & W :|-: S
@@ -23,7 +23,7 @@ __I.__
 
 __II.__
 
-~~~{.ProofChecker .AllenSL options="fonts tabindent render exam" feedback="none" guides="fitch" points="1"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render exam" feedback="none" guides="fitch" points="1" late-credit="1"}
 0.6 P v Q, ~P, T  :|-: Q & T
 0.7 G & (C & (B & ~D))  :|-: ~D v F
 0.8 ~P -> Q, R v ~P, ~R :|-: Q 
@@ -37,7 +37,7 @@ __II.__
 
 __III.__
 
-~~~{.ProofChecker .AllenSL options="fonts tabindent render exam" feedback="none" guides="fitch" points="1"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render exam" feedback="none" guides="fitch" points="1" late-credit="1"}
 
 0.12 (B & D) -> F, D :|-: B -> F
 0.13 ~P -> Q, ~Q :|-: P 
