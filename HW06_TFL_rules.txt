@@ -1,12 +1,12 @@
 ## HW 6
 
-Each problem is worth 20 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 17 points.
+Each problem is worth 20 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 16 points.
 
 You have to use the conditional introduction rule in 6.3, the negation eliminaton rule in 6.4, and the negation introduction rule in 6.5. You will also need to use the reiteration rule in 6.4 and 6.5.
 
 ---
 
-~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="20" late-credit="17"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
 6.1 ((A & B) & ~C) & F :|-: (B v E) & ~C
 6.1 P & (~Q & (R & T)) :|-: (R v S) & P
 6.2 N & ~G, (J -> T) <-> K, (K v G) & J :|-: ~G & T
