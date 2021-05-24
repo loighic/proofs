@@ -6,7 +6,7 @@ Problems 0.1 - 0.8 and 0.13 - 0.15 use the rules that are in sections 14.2 and 1
 
 ---
 
-~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" submission="none"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" submission="none"}
 0.1 P :|-: (P v Q) v ~R
 0.2 (P & Q) & ~R :|-: Q
 0.3 (S & T) & W :|-: S
