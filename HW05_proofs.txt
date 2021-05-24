@@ -1,10 +1,10 @@
 ## proofs HW 5
 
-Each problem is worth 20 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 14 points. Your grade will be put on a 10 point scale when it is posted in Canvas. 
+Each problem is worth 20 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 16 points. Your grade will be put on a 10 point scale when it is posted in Canvas.
 
 ---
 
-~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="20" late-credit="14"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
 5.1 P->Q, R<->P, P :|-: Q & R
 5.1 A->B, C<->B, A :|-: B & C
 5.1 T <-> S, T -> W, S :|-: T & W
