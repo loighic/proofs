@@ -1,12 +1,12 @@
 ## HW 13
 
-Each problem is worth 20 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 14 points.
+Each problem is worth 20 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 16 points.
 
 In each problem, the sentence that is after the turnstile is a theorem. That means that a proof can be given with no premises. (Hint: You will have to make an assumption to begin the proof.)
 
 ---
 
-~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="20" late-credit="14"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
 13.1 :|-: P -> (P v Q)
 13.1 :|-: T -> (S v T)
 13.1 :|-: B -> (~A v B)
