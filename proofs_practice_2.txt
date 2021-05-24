@@ -4,7 +4,7 @@ These are optional, and you can work on them with others. They can't be submitte
 
 ---
 
-~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" submission="none"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" submission="none"}
 0.1 P v Q, ~P, T  :|-: Q & T
 0.2 (C & (D -> F)) & (A & B) :|-: A & (D -> F)
 0.3 G & (C & (B & ~D))  :|-: ~D v F
