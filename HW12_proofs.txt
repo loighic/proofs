@@ -1,10 +1,10 @@
 ## HW 12
 
-Each problem is worth 20 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 14 points. 
+Each problem is worth 20 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 16 points. 
 
 ---
 
-~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="20" late-credit="14"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
 12.1 ~P -> (S -> R), Q -> (~P v R), (~P -> S) :|-: (Q -> R)
 12.1 (S -> R), ~Q -> (S v T), S -> (R -> T) :|-: (~Q -> T)
 12.2 P -> Q :|-: ~PvQ
@@ -12,11 +12,11 @@ Each problem is worth 20 points, and the whole assignment is worth 100 points. P
 12.2 ~Q -> P :|-: PvQ  
 ~~~
 
-~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="20" late-credit="14"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
 12.3 P & (Q v R) :|-: (P & Q) v (P & R)  
 12.4 B v C, B -> D, C -> D  :|-: D
 ~~~
 
-~~~{.ProofChecker .AllenSL options="fonts tabindent render" guides="fitch" points="20" late-credit="14"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
 12.5 ~(~P v ~Q) :|-: P & Q
 ~~~
