@@ -22,4 +22,5 @@ In each problem, the sentence that is after the turnstile is a theorem. That mea
 13.5 :|-: (B v ~C) -> (C -> B)
 ~~~
 
-
+&copy; 2021 Gregory Johnson 
+ 
