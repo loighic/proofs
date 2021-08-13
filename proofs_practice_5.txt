@@ -48,3 +48,6 @@ __Part 4.__ The settings in this part are the same as they have been on the assi
 0.14 :|-: D -> (G -> D)
 0.15 :|-: (R -> T) -> ((T -> R) -> (R <-> T))
 ~~~
+
+&copy; 2021 Gregory Johnson 
+ 
