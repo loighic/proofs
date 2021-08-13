@@ -107,3 +107,6 @@ __15.10__
 | This argument is valid.
 |* This argument is invalid.
 ~~~
+
+&copy; 2021 Gregory Johnson 
+ 
