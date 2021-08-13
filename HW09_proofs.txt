@@ -11,3 +11,6 @@ Each problem is worth 20 points, and the whole assignment is worth 100 points. P
 9.4 R <-> P, ~P  :|-: ~R
 9.5 P -> Q, ~Q :|-: ~P
 ~~~
+
+&copy; 2021 Gregory Johnson 
+ 
