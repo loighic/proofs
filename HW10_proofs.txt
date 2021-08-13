@@ -22,3 +22,5 @@ This proof (in 10.5) requires two subproofs. Assume P first (for `->I`) and then
 10.5 ~(P & ~Q) :|-:  P -> Q 
 ~~~
 
+&copy; 2021 Gregory Johnson 
+ 
