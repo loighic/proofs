@@ -1,22 +1,39 @@
 ## HW 1: TFL rules
 
-Each problem is worth 10 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 9 points. Your grade will be put on a 10 point scale when it is posted in Canvas. 
+Each problem is worth 12 points, and the whole assignment is worth 100 points (although you can get 108). Problems that are submitted late will receive 10 points. Your grade will be put on a 10 point scale when it is posted in Canvas. 
 
 ---
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="10" late-credit="9"}
-1.1 A :|-: AvC
-1.2 A & D :|-: D
-1.3 A & D :|-: A
-1.4 B, C :|-: B&C
-1.5 F v G, ~F :|-: G
-1.6 F v G, ~G :|-: F
-1.7 P :|-: ~~P
-1.8 ~~Q :|-: Q
-1.9 ~P v Q, P :|-: Q 
-1.10 R v ~T, T :|-: R
+Read sections 14.1 - 14.4 to do these problems. 1.1 is done for you. Just hit submit.
+
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="12" late-credit="10"}
+1.1 P :|-: P v T
+|1.P	:PR
+|2.P v Q	:vI 1
 ~~~
 
-&copy; 2021 Gregory Johnson 
- 
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="12" late-credit="10"}
+1.2 P :|-: T v P 
+1.3 P & Q :|-: P 
+1.4 P & Q :|-: Q
+~~~
 
+The argument given in 1.5 has two premises, which should be put in the proof as shown. 
+
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="12" late-credit="10"}
+1.5 R, S :|-: R & S
+|1. R	:PR
+|2. S	:PR
+|3. 
+~~~
+
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="12" late-credit="10"}
+1.6 R, S :|-: S & R
+1.7 F v G, ~F :|-: G
+1.8 F v G, ~G :|-: F
+1.9 R -> T, R :|-: T
+~~~
+
+&copy; 2021 Gregory Johnson
+ 
+---
