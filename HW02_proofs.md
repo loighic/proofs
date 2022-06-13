@@ -21,7 +21,7 @@ To do 2.7 - 2.10, see the subsection of 14.3 titled "Double negation."
 2.7 P :|-: ~~P
 2.8 ~~Q :|-: Q
 2.9 ~P v Q, P :|-: Q 
-2.10 R v ~T, T :|-: R - hi!!!
+2.10 R v ~T, T :|-: R
 ~~~
 
 &copy; 2022 Gregory Johnson
