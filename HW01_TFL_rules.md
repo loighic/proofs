@@ -4,12 +4,12 @@ Each problem is worth 12 points, and the whole assignment is worth 100 points (a
 
 ---
 
-Read sections 14.1 - 14.4 to do these problems. 1.1 is done for you. Just hit submit.
+Read sections 14.1 - 14.4. The first problem (1.1) is done for you. Just hit submit.
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="12" late-credit="10"}
 1.1 P :|-: P v T
 |1.P	:PR
-|2.P v Q	:vI 1
+|2.P v T	:vI 1
 ~~~
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="12" late-credit="10"}
@@ -22,8 +22,8 @@ The argument given in 1.5 has two premises, which should be put in the proof as 
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="12" late-credit="10"}
 1.5 R, S :|-: R & S
-|1. R	:PR
-|2. S	:PR
+|1.R	:PR
+|2.S	:PR
 |3. 
 ~~~
 
@@ -34,6 +34,6 @@ The argument given in 1.5 has two premises, which should be put in the proof as 
 1.9 R -> T, R :|-: T
 ~~~
 
-&copy; 2021 Gregory Johnson
+&copy; 2022 Gregory Johnson
  
 ---

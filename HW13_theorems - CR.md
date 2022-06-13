@@ -1,3 +1,7 @@
+---
+js: https://carnap.io/shared/gregory.s.johnson@gmail.com/copy.js
+--- 
+
 ## HW 13
 
 Each problem is worth 20 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 16 points.
@@ -6,21 +10,14 @@ In each problem, the sentence that is after the turnstile is a theorem. That mea
 
 ---
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
-13.1 :|-: P -> (P v Q)
-13.1 :|-: T -> (S v T)
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="16"}
 13.1 :|-: B -> (~A v B)
 13.2 :|-: (P & Q) -> (P v R)
-13.2 :|-: (A & C) -> (C v D)
 13.3 :|-: C -> ~~C
-13.4 :|-: ~((Q -> P) & (Q & ~P))
 13.4 :|-: ~((R & ~T) & (R <-> T))
-13.4 :|-: ~((D <-> F) & (D & ~F))
-13.4 :|-: ~((B & ~C) & (B -> C))
 13.5 :|-: (S v T) -> (~T -> S)
-13.5 :|-: (P <-> Q) -> (P -> Q)
-13.5 :|-: (B v ~C) -> (C -> B)
 ~~~
 
 &copy; 2021 Gregory Johnson 
  
+---

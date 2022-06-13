@@ -29,3 +29,4 @@ To use `vE` in 0.6, 0.7, and 0.9, you also have to use the double negation rule 
 
 &copy; 2021 Gregory Johnson 
  
+---

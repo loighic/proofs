@@ -37,5 +37,5 @@ Problems 0.9 and 0.10 require two subproofs. In each, you have to use `->I` and 
 
 &copy; 2021 Gregory Johnson 
  
-
+---
 

@@ -1,5 +1,7 @@
 ## proofs, part 3
 
+---
+
 Read: chapters 17 & 18
 
 HW 13 - 15

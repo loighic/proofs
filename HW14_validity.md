@@ -1,6 +1,9 @@
 ---
-css:
-- https://ghcdn.rawgit.org/Carnap/Carnap-Contrib/main/css/hide-points.css
+js: https://carnap.io/shared/gregory.s.johnson@gmail.com/copy.js
+--- 
+
+---
+css: https://ghcdn.rawgit.org/Carnap/Carnap-Contrib/main/css/hide-points.css
 ---
 
 ## HW 14
@@ -16,11 +19,11 @@ The _proof or truth table_ problems are worth 15 points (and 12 if they are late
 
 __14.1__
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="15" late-credit="12"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="15" late-credit="12"}
 14.1 A & B, C :|-: A & C
 ~~~
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms" points="0"}
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms nodash" points="0"}
 14.1 A & B, C :|-: A & C
 ~~~
 
@@ -35,18 +38,18 @@ __14.2__
 
 __14.3__
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="15" late-credit="12"}
-14.3 P v ~Q, ~Q :|-: P
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="15" late-credit="12"}
+14.3 P -> Q, ~Q :|-: P
 ~~~
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample" points="15" late-credit="12"}
-14.3 P v ~Q, ~Q :|-: P
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" points="15" late-credit="12"}
+14.3 P -> Q, ~Q :|-: P
 ~~~
 
 __14.4__
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" points="5" late-credit="4"}
-14.4 Which one of the following is correct about P v ~Q, ~Q |- P, the argument in the previous problem?
+14.4 Which one of the following is correct about P -> Q, ~Q |- P, the argument in the previous problem?
 | This argument is valid.
 |* This argument is invalid.
 ~~~
@@ -54,11 +57,11 @@ __14.4__
 
 __14.5__
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="15" late-credit="12"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="15" late-credit="12"}
 14.5 P <-> Q  :|-: Q
 ~~~
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample" points="15" late-credit="12"}
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" points="15" late-credit="12"}
 14.5 P <-> Q  :|-: Q
 ~~~
 
@@ -73,11 +76,11 @@ __14.6__
 
 __14.7__
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="15" late-credit="12"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="15" late-credit="12"}
 14.7 (P & Q) :|-: Q v R 
 ~~~
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms" points="0"}
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms nodash" points="0"}
 14.7 (P & Q) :|-: Q v R
 ~~~
 
@@ -92,11 +95,11 @@ __14.8__
 
 __14.9__
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="15" late-credit="12"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="15" late-credit="12"}
 14.9 ~Q -> R, Q :|-: R
 ~~~
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample" points="15" late-credit="12"}
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" points="15" late-credit="12"}
 14.9 ~Q -> R, Q :|-: R
 ~~~
 
@@ -110,3 +113,4 @@ __14.10__
 
 &copy; 2021 Gregory Johnson 
  
+---

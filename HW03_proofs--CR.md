@@ -12,14 +12,12 @@ Problems 3.1 - 3.4 are each worth 10 points (or 8 if they are submitted late). P
 ~~~
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
-3.5 H -> U, S & H :|-: U
-3.5 P -> ~Q, R & P :|-: ~Q
 3.5 ~B -> C, ~B & A :|-: C
 3.6 (P -> Q) & R, P :|-: Q 
-3.6 (B -> C) & A, B :|-: C
 3.7 (~Q & R), (P v Q) :|-: P
 ~~~
 
 &copy; 2021 Gregory Johnson 
- 
+
+---
 

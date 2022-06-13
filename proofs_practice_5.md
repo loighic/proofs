@@ -1,5 +1,7 @@
 ## proofs, practice problems, set 5
 
+---
+
 These are optional, and you can work on them with others.
 
 Except for in part 4, the settings on these problems are different than they have been on the assignments that you've done so far. These are settings that will be used on the test. 
@@ -10,7 +12,7 @@ These problems will not count toward your grade, but, so that you can see if you
 
 __Part 1.__ There is no feedback on these proofs, either at the end of each line or when the proof is complete. They can be submitted at any time (whether they are complete or incomplete, correct or incorrect), and they can only be submitted once.
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render exam" feedback="none" guides="fitch" points="1"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render exam" feedback="none" guides="fitch" points="1" late-credit="1"}
 0.1 (P&Q) & (S&T) :|-: Q&S
 0.2 R -> (P&Q), R :|-: Q v S
 0.3 PvQ, ~P, T :|-: Q&T
@@ -20,7 +22,7 @@ __Part 1.__ There is no feedback on these proofs, either at the end of each line
 
 __Part 2.__ There is no feedback on these proofs, either at the end of each line or when the proof is complete. They can only be submitted when they are complete and correct, however.
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" feedback="none" guides="fitch" points="1"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" feedback="none" guides="fitch" points="1" late-credit="1"}
 0.4 A->(BvC),A&~C :|-: Bv~D
 0.5 (BvC)&~A,~B :|-: DvC
 0.6 C&D,D->F :|-: F&C
@@ -30,7 +32,7 @@ __Part 2.__ There is no feedback on these proofs, either at the end of each line
 
 __Part 3.__ There is feedback for these proofs---at the end of each line and there is the green bar if you finish the proof correctly. These can be submitted at any point, whether or not they are correct or complete.
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render exam" guides="fitch" points="1"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render exam" guides="fitch" points="1" late-credit="1"}
 0.7 ~Cv(B&D) :|-: C->D
 0.8 Qv(R&T) :|-: ~Q->T
 ~~~
@@ -51,3 +53,4 @@ __Part 4.__ The settings in this part are the same as they have been on the assi
 
 &copy; 2021 Gregory Johnson 
  
+---

@@ -6,19 +6,13 @@ Each problem is worth 20 points, and the whole assignment is worth 100 points. P
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
 5.1 P->Q, R<->P, P :|-: Q & R
-5.1 A->B, C<->B, A :|-: B & C
-5.1 T <-> S, T -> W, S :|-: T & W
 5.2 (T & Q) & R,  (T & R) -> S :|-: S
-5.2 P -> ~Q, (~Q v R)-> ~S, P & T :|-: ~S
 5.3 A -> (B v C), A & ~C :|-: B
-5.3 B -> (A v C), D v B, ~D :|-: A v C
 5.4 ~P v ~R, ~R <-> S, P :|-: S & ~R
-5.4 ~B -> C, ~A v ~B, A :|-: D v C
-5.5 (~C v F) -> D, F, ~A :|-: ~A & D 
-5.5 (P v R) -> Q, R, S :|-: S & Q
-5.5 A & B, (C v B) -> D :|-: D & A
 5.5 P & Q, (~R v Q) -> S :|-: S & P  
 ~~~
 
 &copy; 2021 Gregory Johnson 
- 
+
+---
+
