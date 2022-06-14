@@ -16,5 +16,5 @@ jobs:
           # make any newly created documents private
           defaultVisibility: 'Private'
           # files to include in the upload (important: this must be quoted)
-          includeFiles: 
+          includeFiles: '["*.md"]'
           instanceUrl: 'https://carnap.io'
