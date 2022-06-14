@@ -11,6 +11,7 @@ Problems 3.5 - 3.8 are each worth 10 points (or 8 if they are submitted late). P
 3.2 P v Q, ~P :|-: Q 
 3.3 P v Q, ~Q :|-: P
 3.4 P v ~Q, Q :|-: P 
+~~~
 
 ---
 
