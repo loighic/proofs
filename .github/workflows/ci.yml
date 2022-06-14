@@ -10,8 +10,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Deploy
-      - uses: carnap/actions@v1
-      - with:
+        uses: carnap/actions@v1
+        with:
           apiKey: '${{ secrets.CARNAP_API_KEY }}'
           # make any newly created documents private
           defaultVisibility: 'Private'
