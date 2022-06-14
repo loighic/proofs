@@ -20,7 +20,7 @@ To do 2.7 - 2.10, see the subsection of 14.3 titled "Double negation."
 2.6 M v N, ~M :|-: N
 2.7 P :|-: ~~P
 2.8 ~~Q :|-: Q
-2.9 ~P v Q, P :|-: Q - HI!!!
+2.9 ~P v Q, P :|-: Q - HI!!! HIYA!
 2.10 R v ~T, T :|-: R
 ~~~
 
