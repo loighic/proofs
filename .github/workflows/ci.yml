@@ -1,6 +1,5 @@
 name: 'Deploy markdown files to Carnap'
-on:
-  push:
+on: [push]
     branches:
       - main
 
