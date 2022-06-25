@@ -9,7 +9,7 @@ You have to use the conditional introduction rule in 6.7, the negation eliminato
 **warm-up, extra credit problems**
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="2" late-credit="1"}
-6.1 R <- > (S & T), S & T :|-: R 
+6.1 R <-> (S & T), S & T :|-: R 
 6.2 P v Q, ~Q :|-: P 
 6.3 M, N v ~M :|-: N
 6.4 R, S :|-: S & R 
