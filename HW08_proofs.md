@@ -18,6 +18,6 @@ Problems 8.1 through 8.5 are worth 20 points, and the whole assignment is worth 
 8.6  ~P -> ~Q, Q :|-: P
 ~~~
 
-&copy; 2021 Gregory Johnson 
+&copy; 2022 Gregory Johnson 
  
 ---
