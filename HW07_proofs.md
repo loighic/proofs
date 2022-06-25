@@ -3,7 +3,6 @@
 
 Problem 7.5 - 7.9 are each worth 20 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 16 points.
 
-For 7.8 and 7.9, you have to use the conditional introduction rule.
 
 ---
 
@@ -23,11 +22,11 @@ There is no feedback, either at the end of each line or when the proof is comple
 **main problems**
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
-7.5 G <-> (F v H), F :|-:  G
-7.6 ~P, (R v ~P) <-> (P v Q) :|-: Q
-7.7 A <-> (D & ~C), ~C, D  :|-: A
-7.8 P v Q :|-: ~P -> Q
-7.9 Q v (R & T) :|-: ~Q -> T
+7.5 A <-> (D & ~C), ~C, D  :|-: A
+7.6 P v Q :|-: ~P -> Q
+7.7 Q v (R & T) :|-: ~Q -> T
+7.8 P -> (Q & T) :|-: P -> Q
+7.9 ~S v ~T :|-: S -> ~T 
 ~~~
 
 &copy; 2022 Gregory Johnson 

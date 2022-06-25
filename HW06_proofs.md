@@ -2,7 +2,7 @@
 
 Problems 6.4 - 6.8 are each worth 20 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 16 points.
 
-You have to use the conditional introduction rule in 6.7, the negation eliminaton rule in 6.8, and the negation introduction rule in 6.9. You will also need to use the reiteration rule in 6.8 and 6.9.
+You have to use the conditional introduction rule in 6.9.
 
 ---
 
@@ -26,10 +26,10 @@ You have to use the conditional introduction rule in 6.7, the negation eliminato
 6.6 N & ~G, (J -> T) <-> K, (K v G) & J :|-: ~G & T
 6.6 A & ~G, (D -> B) <-> M, (M v G) & D :|-: ~G & B
 
-6.7 S & T :|-: R -> T
+6.7 G <-> (F v H), F :|-:  G
+6.8 ~P, (R v ~P) <-> (P v Q) :|-: Q
 
-6.8 ~P -> ~Q, Q :|-: P
-6.9 P -> Q, ~Q :|-: ~P
+6.9 S & T :|-: R -> T
 ~~~
 
 &copy; 2022 Gregory Johnson 

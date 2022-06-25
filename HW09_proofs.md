@@ -21,6 +21,8 @@ There is no feedback, either at the end of each line or when the proof is comple
 
 ---
 
+**main problems**
+
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="16"}
 9.5 B -> (~C -> D) :|-: (B & ~C) -> D
 ~~~
@@ -35,8 +37,14 @@ For 9.7, think about what you need in order to get the conclusion. (Hint: it's a
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="16"}
 9.7 ~P v Q, Q -> P :|-: P <-> Q
-9.8 R <-> P, ~P :|-: ~R
-9.9 S & ~T, R v T :|-: R & S
+~~~
+
+
+You need to use the negation eliminaton rule in 9.8, and the negation introduction rule in 9.9. You will also need to use the reiteration rule in these two proofs.
+
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="16"}
+9.8 ~P -> ~Q, Q :|-: P
+9.9 R <-> P, ~P :|-: ~R
 ~~~
 
 &copy; 2022 Gregory Johnson 
