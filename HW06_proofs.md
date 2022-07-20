@@ -2,8 +2,6 @@
 
 Problems 6.4 - 6.8 are each worth 20 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 16 points.
 
-You have to use the conditional introduction rule in 6.9.
-
 ---
 
 **warm-up, extra credit problems**
@@ -28,7 +26,11 @@ You have to use the conditional introduction rule in 6.9.
 
 6.7 G <-> (F v H), F :|-:  G
 6.8 ~P, (R v ~P) <-> (P v Q) :|-: Q
+~~~
 
+You have to use the conditional introduction rule in the proof for 6.9.
+
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
 6.9 S & T :|-: R -> T
 ~~~
 
