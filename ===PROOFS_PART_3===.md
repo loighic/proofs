@@ -2,8 +2,3 @@
 
 ---
 
-Read: chapter 17, section 1
-
-HW 13
-
----
