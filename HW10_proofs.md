@@ -4,39 +4,47 @@ js: https://carnap.io/shared/gregory.s.johnson@gmail.com/copy.js
 
 ## HW 10
 
-Problem 10.5 - 10.9 are each worth 20 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 16 points.
+Problems 10.5 - 10.9 are each worth 20 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 16 points.
 
 ---
 
 **warm-up, extra credit problems**
 
-There is no feedback, either at the end of each line or when the proof is complete. Each can be submitted at any time (whether it is complete or incomplete, correct or incorrect), and each can only be submitted once.
+There is no feedback, either at the end of each line or when the proof is complete. Each can be submitted at any time (whether it is complete or incomplete, **correct or incorrect**), and each can only be submitted once.
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render exam" guides="fitch" feedback="none" points="1" late-credit="1"}
-10.1 P v Q, ~Q :|-: P
-10.2 P v ~Q, Q :|-: P
-10.3 ~P v Q, ~Q :|-: ~P
-10.4 ~P v ~Q, Q :|-: ~P
+10.1 R <-> ~T, ~T :|-: R 
+10.2 ~P v Q, ~Q :|-: ~P 
+10.3 ~N, ~N -> ~M :|-: ~M
+10.4 R, S :|-: (S v T) & R 
 ~~~
 
 ---
 
+**main problems**
+
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="16"}
-10.5 P -> Q, P -> ~Q :|-: ~P
-10.6 Q <-> P, ~(Q v R) :|-: ~P 
-10.7 P -> Q :|-: ~(P & ~Q)
+10.5 B -> (~C -> D) :|-: (B & ~C) -> D
 ~~~
 
-For 10.8, do all of the `&E` and `<->E` that you can before making an assumption for `~E`.
+For 10.6, you need to use conditional introduction rule, but it won't be to get the conclusion (which isn't a conditional). Think about how you will get the conclusion, given that you have `P` before the double arrow in `P <-> (~R -> T)`.
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
-10.8 P <-> (~Q & S), P & (~T -> ~S) :|-: ~Q & T 
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="16"}
+10.6 P <-> (~R -> T), R v T :|-: P 
 ~~~
 
-This proof (in 10.9) requires two subproofs. Assume P first (for `->I`) and then assume ~Q (for `~E`). Also, take a look at section 14.10 in the textbook (&lsquo;Even more examples&rsquo;). A sub-proof inside a sub-proof looks like the fourth example in that section. 
+For 10.7, think about what you need in order to get the conclusion. (Hint: it's a biconditional, and so you will need to use the biconditional introduction rule. Check how that rule works if you don't remember. You will also need to use the double negation rule in this proof.)
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
-10.9 ~(P & ~Q) :|-: P -> Q 
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="16"}
+10.7 ~P v Q, Q -> P :|-: P <-> Q
+~~~
+
+
+You need to use the negation eliminaton rule in 10.8, and the negation introduction rule in 10.9. You will also need to use the reiteration rule in these two proofs.
+
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="16"}
+10.8 ~P -> ~Q, Q :|-: P
+10.9 R <-> P, ~P :|-: ~R
 ~~~
 
 &copy; 2022 Gregory Johnson 

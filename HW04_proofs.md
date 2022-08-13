@@ -33,7 +33,7 @@ Use your page of rules or the textbook. Don't guess about the rules.
 4.8  R v ~S, T <-> ~S, ~R :|-: T
 ~~~
 
-If you are having difficulty with 4.9, consult section 14.3, especially the subsection titled "Double negation."
+If you are having trouble with 4.9, consult section 14.3, especially the subsection titled "Double negation."
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
 4.9 ([B v ~D] & C), D :|-: B

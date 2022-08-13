@@ -24,7 +24,7 @@ Problems 6.4 - 6.8 are each worth 20 points, and the whole assignment is worth 1
 6.6 N & ~G, (J -> T) <-> K, (K v G) & J :|-: ~G & T
 6.6 A & ~G, (D -> B) <-> M, (M v G) & D :|-: ~G & B
 
-6.7 G <-> (F v H), F :|-:  G
+6.7 L <-> (M v R), M :|-:  L
 6.8 ~P, (R v ~P) <-> (P v Q) :|-: Q
 ~~~
 

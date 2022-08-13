@@ -9,14 +9,25 @@ Each problem is worth 20 points, and the whole assignment is worth 100 points. P
 ---
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="16"}
-12.1 P v Q, P -> T, Q -> T  :|-: T
-12.2 P -> Q :|-: ~PvQ
-12.2 ~P->Q :|-: PvQ
-12.2 ~Q -> P :|-: PvQ
-12.3 ~P -> (S -> R), Q -> (~P v R), (~P -> S) :|-: (Q -> R)
-12.3 (S -> R), ~Q -> (S v T), S -> (R -> T) :|-: (~Q -> T)
-12.4 N & (P v S) :|-: (N & P) v (N & S)  
-12.5 ~(~T v ~R) :|-: T & R
+12.1 Q & R, Q -> (P v S), ~(S & R)  :|-: P
+~~~
+
+In 12.2, you have to make two assumptions. The first assumption is made so that you can use the conditional introduction rule. The second assumption will be discharged with either the negation introduction or negation elimination rule.
+
+You also have to make two assumptions in problem 12.3. Both of those assumptions will be discharged with either the negation introduction or negation elimination rule. (Hint for 12.3: On line 2, make your assumption the opposite of what you, eventually, want.)
+
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="16"}
+12.2 F -> (G -> H), ~J -> (F v H), F -> G :|-: ~J -> H
+12.3 P v Q :|-: Q v P  
+~~~
+
+
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="16"}
+12.4 ~P v ~Q :|-: ~(P & Q)
+~~~
+
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="16"}
+12.5 (A -> B) & (~A -> C), ~B :|-: C
 ~~~
 
 &copy; 2022 Gregory Johnson 

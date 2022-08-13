@@ -20,97 +20,97 @@ The _proof or truth table_ problems are worth 15 points (and 12 if they are late
 __15.1__
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="15" late-credit="12"}
-15.1 A, B -> A :|-: B
+15.1 A & B, C :|-: A & C
 ~~~
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash autoAtoms" points="15" late-credit="12"}
-15.1 A, B -> A :|-: B
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms nodash" points="0"}
+15.1 A & B, C :|-: A & C
 ~~~
 
 __15.2__
 
-~~~{.QualitativeProblem .MultipleChoice options="exam" points="5" late-credit="4"}
-15.2 Which one of the following is correct about A, B -> A |- B, the argument in the previous problem?
-| This argument is valid.
-|* This  argument is invalid.
+~~~{.QualitativeProblem .MultipleChoice options="check" points="5" late-credit="4"}
+15.2 Which one of the following is correct about A & B, C |- A & C, the argument in the previous problem?
+|* This argument is valid.
+| This  argument is invalid.
 ~~~
 
 
 __15.3__
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="15" late-credit="12"}
-15.3 P v ~Q, ~Q -> R, ~P :|-: R
+15.3 P -> Q, ~Q :|-: P
 ~~~
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash autoAtoms" points="0"}
-15.3 P v ~Q, ~Q -> R, ~P :|-: R
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" points="15" late-credit="12"}
+15.3 P -> Q, ~Q :|-: P
 ~~~
 
 __15.4__
 
-~~~{.QualitativeProblem .MultipleChoice options="exam" points="5" late-credit="4"}
-15.4 Which one of the following is correct about P v ~Q, ~Q -> R, ~P |- R, the argument in the previous problem?
-|* This argument is valid.
-| This argument is invalid.
+~~~{.QualitativeProblem .MultipleChoice options="check" points="5" late-credit="4"}
+15.4 Which one of the following is correct about P -> Q, ~Q |- P, the argument in the previous problem?
+| This argument is valid.
+|* This argument is invalid.
 ~~~
 
 
 __15.5__
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="15" late-credit="12"}
-15.5 A <-> (C v D), D :|-: A
+15.5 P <-> Q  :|-: Q
 ~~~
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash autoAtoms" points="0"}
-15.5 A <-> (C v D), D :|-: A
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" points="15" late-credit="12"}
+15.5 P <-> Q  :|-: Q
 ~~~
 
 __15.6__
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="5" late-credit="4"}
-15.6 Which one of the following is correct about A <-> (C v D), D |- A, the argument in the previous problem?
-|* This argument is valid.
-| This argument is invalid.
+15.6 Which one of the following is correct about P <-> Q  |- Q, the argument in the previous problem?
+| This argument is valid.
+|* This argument is invalid.
 ~~~
 
 
 __15.7__
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="15" late-credit="12"}
-15.7 (P & Q) <-> R, P :|-: R
+15.7 (P & Q) :|-: Q v R 
 ~~~
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash autoAtoms" points="15" late-credit="12"}
-15.7 (P & Q) <-> R, P :|-: R
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms nodash" points="0"}
+15.7 (P & Q) :|-: Q v R
 ~~~
 
 __15.8__
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="5" late-credit="4"}
-15.8 Which one of the following is correct about (P & Q) <-> R, P |- R, the argument in the previous problem?
-| This argument is valid.
-|* This argument is invalid.
+15.8 Which one of the following is correct about (P & Q) |- Q v R, the argument in the previous problem?
+|* This argument is valid.
+| This argument is invalid.
 ~~~
 
 
 __15.9__
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="15" late-credit="12"}
-15.9 P v ~Q, ~Q -> R, P :|-: R
+15.9 ~Q -> R, Q :|-: R
 ~~~
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash autoAtoms" points="15" late-credit="12"}
-15.9 P v ~Q, ~Q -> R, P :|-: R
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" points="15" late-credit="12"}
+15.9 ~Q -> R, Q :|-: R
 ~~~
 
 __15.10__
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="5" late-credit="4"}
-15.10 Which one of the following is correct about P v ~Q, ~Q -> R, P |- R, the argument in the previous problem?
+15.10 Which one of the following is correct about ~Q -> R, Q |- R, the argument in the previous problem?
 | This argument is valid.
 |* This argument is invalid.
 ~~~
 
-&copy; 2021 Gregory Johnson 
+&copy; 2022 Gregory Johnson 
  
 ---
