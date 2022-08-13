@@ -4,7 +4,7 @@ Each problem is worth 12 points, and the whole assignment is worth 100 points (a
 
 ---
 
-Read sections 14.1 - 14.4. The first problem (1.1) is done for you. Just hit submit.
+Read sections 14.1 - 14.3. The first problem (1.1) is done for you. Just hit submit.
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="12" late-credit="10"}
 1.1 P :|-: P v T
@@ -31,7 +31,7 @@ The argument given in 1.5 has two premises, which should be put in the proof as 
 1.6 R, S :|-: S & R
 1.7 F v G, ~F :|-: G
 1.8 F v G, ~G :|-: F
-1.9 R -> T, R :|-: T
+1.9 P v R, ~P :|-: R 
 ~~~
 
 &copy; 2022 Gregory Johnson
