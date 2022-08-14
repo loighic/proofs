@@ -51,7 +51,7 @@ __16.3__
 __16.4__
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="5" late-credit="4"}
-16.4 Which one of the following is correct about P &or;v &not;Q, &not;Q &rarr; R, &not;P &vdash; R, the argument in the previous problem?
+16.4 Which one of the following is correct about P &or; &not;Q, &not;Q &rarr; R, &not;P &vdash; R, the argument in the previous problem?
 |* This argument is valid.
 | This argument is invalid.
 ~~~
@@ -70,7 +70,7 @@ __16.5__
 __16.6__
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="5" late-credit="4"}
-16.6 Which one of the following is correct about A &LeftRightArrow; (C v D), D &vdash; A, the argument in the previous problem?
+16.6 Which one of the following is correct about A &LeftRightArrow; (C &or; D), D &vdash; A, the argument in the previous problem?
 |* This argument is valid.
 | This argument is invalid.
 ~~~
@@ -108,7 +108,7 @@ __16.9__
 __16.10__
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="5" late-credit="4"}
-16.10 Which one of the following is correct about P v &not;Q, &not;Q &rarr; R, P &vdash; R, the argument in the previous problem?
+16.10 Which one of the following is correct about P &or; &not;Q, &not;Q &rarr; R, P &vdash; R, the argument in the previous problem?
 | This argument is valid.
 |* This argument is invalid.
 ~~~
