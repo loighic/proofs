@@ -1,5 +1,9 @@
 
 ---
+js: https://carnap.io/shared/gregory.s.johnson@gmail.com/copy.js
+--- 
+
+---
 css: https://cdn.jsdelivr.net/gh/carnap/carnap-contrib@9df544f/css/hide-points.css
 ---
 
@@ -28,7 +32,7 @@ __16.1__
 __16.2__
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="5" late-credit="4"}
-16.2 Which one of the following is correct about A, B -> A |- B, the argument in the previous problem?
+16.2 Which one of the following is correct about A, B -> A |- &vdash; B, the argument in the previous problem?
 | This argument is valid.
 |* This  argument is invalid.
 ~~~
