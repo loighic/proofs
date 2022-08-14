@@ -8,7 +8,7 @@ css: https://cdn.jsdelivr.net/gh/carnap/carnap-contrib@9df544f/css/hide-points.c
 ---
 
 
-## HW 16 (6)
+## HW 16
 
 There are two versions of each odd numbered problem (16.1, 16.3, 16.5, 16.7, and 16.9), and you can only submit one problem from each pair. If the argument is valid, submit a proof. If the argument is invalid, submit a completed truth table. 
 
@@ -32,7 +32,7 @@ __16.1__
 __16.2__
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="5" late-credit="4"}
-16.2 Which one of the following is correct about A, B &rarr; A &vdash; B, the argument in the previous problem?
+16.2 Which one of the following is correct about `A, B &rarr; A &vdash; B', the argument in the previous problem?
 | This argument is valid.
 |* This  argument is invalid.
 ~~~
