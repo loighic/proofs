@@ -1,11 +1,10 @@
 
 ---
-css:
-- https://ghcdn.rawgit.org/Carnap/Carnap-Contrib/main/css/hide-points.css
+css: https://cdn.jsdelivr.net/gh/carnap/carnap-contrib@9df544f/css/hide-points.css
 ---
 
 
-## HW 16 (4)
+## HW 16 (6)
 
 There are two versions of each odd numbered problem (16.1, 16.3, 16.5, 16.7, and 16.9), and you can only submit one problem from each pair. If the argument is valid, submit a proof. If the argument is invalid, submit a completed truth table. 
 
