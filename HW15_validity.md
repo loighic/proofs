@@ -30,7 +30,7 @@ __15.1__
 __15.2__
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" points="5" late-credit="4"}
-15.2 Which one of the following is correct about A &amp;& B, C &vdash; A & C, the argument in the previous problem?
+15.2 Which one of the following is correct about A &amp; B, C &vdash; A & C, the argument in the previous problem?
 |* This argument is valid.
 | This  argument is invalid.
 ~~~
