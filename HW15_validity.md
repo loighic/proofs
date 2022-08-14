@@ -87,7 +87,7 @@ __15.7__
 __15.8__
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="5" late-credit="4"}
-15.8 Which one of the following is correct about (P & Q) &vdash; Q &or; R, the argument in the previous problem?
+15.8 Which one of the following is correct about (P & Q) &vdash; (Q &or; R), the argument in the previous problem?
 |* This argument is valid.
 | This argument is invalid.
 ~~~
