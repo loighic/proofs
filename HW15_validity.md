@@ -3,7 +3,7 @@ js: https://carnap.io/shared/gregory.s.johnson@gmail.com/copy.js
 --- 
 
 ---
-css: https://ghcdn.rawgit.org/Carnap/Carnap-Contrib/main/css/hide-points.css
+css: https://cdn.jsdelivr.net/gh/carnap/carnap-contrib@9df544f/css/hide-points.css
 ---
 
 ## HW 15
@@ -30,7 +30,7 @@ __15.1__
 __15.2__
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" points="5" late-credit="4"}
-15.2 Which one of the following is correct about A & B, C |- A & C, the argument in the previous problem?
+15.2 Which one of the following is correct about A & B, C &vdash; A & C, the argument in the previous problem?
 |* This argument is valid.
 | This  argument is invalid.
 ~~~
@@ -49,7 +49,7 @@ __15.3__
 __15.4__
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" points="5" late-credit="4"}
-15.4 Which one of the following is correct about P -> Q, ~Q |- P, the argument in the previous problem?
+15.4 Which one of the following is correct about P &rarr; Q, &not;Q &vdash; P, the argument in the previous problem?
 | This argument is valid.
 |* This argument is invalid.
 ~~~
@@ -68,7 +68,7 @@ __15.5__
 __15.6__
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="5" late-credit="4"}
-15.6 Which one of the following is correct about P <-> Q  |- Q, the argument in the previous problem?
+15.6 Which one of the following is correct about P &LeftRightArrow; Q &vdash; Q, the argument in the previous problem?
 | This argument is valid.
 |* This argument is invalid.
 ~~~
@@ -87,7 +87,7 @@ __15.7__
 __15.8__
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="5" late-credit="4"}
-15.8 Which one of the following is correct about (P & Q) |- Q v R, the argument in the previous problem?
+15.8 Which one of the following is correct about (P & Q) &vdash; Q &or; R, the argument in the previous problem?
 |* This argument is valid.
 | This argument is invalid.
 ~~~
@@ -106,7 +106,7 @@ __15.9__
 __15.10__
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="5" late-credit="4"}
-15.10 Which one of the following is correct about ~Q -> R, Q |- R, the argument in the previous problem?
+15.10 Which one of the following is correct about &not;Q &rarr; R, Q &vdash; R, the argument in the previous problem?
 | This argument is valid.
 |* This argument is invalid.
 ~~~
