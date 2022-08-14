@@ -51,7 +51,7 @@ __16.3__
 __16.4__
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="5" late-credit="4"}
-16.4 Which one of the following is correct about P v &not;Q, &not;Q &rarr; R, ~P &vdash; R, the argument in the previous problem?
+16.4 Which one of the following is correct about P &or;v &not;Q, &not;Q &rarr; R, &not;P &vdash; R, the argument in the previous problem?
 |* This argument is valid.
 | This argument is invalid.
 ~~~
