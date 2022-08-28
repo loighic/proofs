@@ -21,11 +21,11 @@ For 9.1 - 9.4, there is no feedback, either at the end of each line or when the 
 **main problems**
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
-9.1 ~Q -> (K <-> (J & B)), ~Q & K  :|-: B
-9.2 ~B v C, D & A :|-: B -> (A & C)
-9.3 P -> Q, Q -> R :|-:  P -> R 
-9.4 P v Q, (~P <-> R) & T :|-:  R -> Q  
-9.5 W -> (Q & R), (R v ~Q) -> ( S & T), T <-> M :|-:  W -> M
+9.5 ~Q -> (K <-> (J & B)), ~Q & K  :|-: B
+9.6 ~B v C, D & A :|-: B -> (A & C)
+9.7 P -> Q, Q -> R :|-:  P -> R 
+9.8 P v Q, (~P <-> R) & T :|-:  R -> Q  
+9.9 W -> (Q & R), (R v ~Q) -> ( S & T), T <-> M :|-:  W -> M
 ~~~
 
 &copy; 2022 Gregory Johnson 
