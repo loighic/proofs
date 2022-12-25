@@ -13,7 +13,7 @@ For 2.1 - 2.5, you need to use the same rules as you used in HW 1, but each proo
 2.4 ~R & T :|-: ~R v S
 ~~~
 
-For 2.5, five of these sentences go the lines following the premises (and not necessarily in this order): Q, &not;T, P, Q & &not;T, R &rarr; &not;T, R & &not;T, &not;S & Q.
+For 2.5, five of these sentences go on the lines following the premises (and not necessarily in this order): Q, &not;T, P, (Q & &not;T), (R &rarr; &not;T), (R & &not;T), (&not;S & Q).
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="10" late-credit="9"}
 2.5 (R & ~T) & (~S & Q) :|-: Q & ~T 
