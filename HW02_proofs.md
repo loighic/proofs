@@ -14,6 +14,7 @@ For 2.1 - 2.5, you need to use the same rules as you used in HW 1, but each proo
 ~~~
 
 For 2.5, five of these sentences go the lines following the premises (and not necessarily in this order): Q, &not;T, P, Q & &not;T, R &rarr; &not;T, R & &not;T, &not;S & Q.
+
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="10"
 2.5 (R & ~T) & (~S & Q) :|-: Q & ~T 
 ~~~
@@ -28,6 +29,6 @@ To do 2.7 - 2.10, see the subsection of 14.3 titled "Double negation."
 2.10 R v ~T, T :|-: R
 ~~~
 
-&copy; 2022 Gregory Johnson
+&copy; 2023 Gregory Johnson
 
 --- 
