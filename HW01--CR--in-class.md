@@ -1,6 +1,5 @@
 ## Proofs, HW 1 (in-class)
 
-
 ---
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="5" late-credit="3"}
