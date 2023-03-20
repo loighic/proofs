@@ -1,6 +1,6 @@
 ## end of class, 03/20
 
----
+
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="10" late-credit="8"}
 2.7 Q v T, ~S & ~Q :|-: T
