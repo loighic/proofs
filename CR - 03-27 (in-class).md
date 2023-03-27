@@ -9,7 +9,7 @@
 4.3 A <-> (B v C), A & ~C :|-: B
 4.4 ~P v ~R, ~R <-> S, P :|-: S & ~R
 4.5 (~C v F) -> D, F, ~M :|-: ~M & D 
-4.6 (P v S) & T, Q -> ~P :|-: Q <-> T
+4.6 (P v S) & T, Q -> ~P, Q <-> T :|-: S
 ~~~
 
 &copy; 2023 Gregory Johnson 
