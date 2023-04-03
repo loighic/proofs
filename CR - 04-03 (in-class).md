@@ -10,7 +10,7 @@
 6.5 P v Q, (~P <-> R) & T :|-: R -> Q
 ~~~
 
-For 6.6, you need to make an assumption, which should be the antecedent of the conditional that you want to introduce once you finish the sub-proof.
+For 6.6, you need to make an assumption. Like always, when you plan to use the conditional introduction rule, the assumption should be the antecedent of the conditional.
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="17" late-credit="14"}
 6.6 R -> Q, Q -> T :|-: (S & R) -> T
