@@ -1,6 +1,6 @@
 ## Monday, April 3 meeting
 
-These are the proofs that we went over in our class meeting on April 3. They are not an assignment and you won't get credit for doing them. If you want to practice doing them, you can. Or, if you missed this class meeting, you can try them.
+These are the proofs that we went over in our class meeting on April 3. They are not an assignment, and you won't get credit for doing them. But if you want to do them again as practice, you can. Or, if you missed this class meeting, you can try them.
 
 ---
 
