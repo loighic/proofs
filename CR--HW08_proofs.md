@@ -22,7 +22,7 @@ For 8.1 - 8.4, there is no feedback, either at the end of each line or when the 
 **main problems**
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
-8.5 N & ~G, (L -> T) <-> K, (L v G) & P :|-: ~G & T
+8.5 (L v G) & P, N & ~G, (P -> T) <-> L :|-: ~G & T
 8.6 P v Q :|-: ~P -> Q
 8.7 Q v (R & T) :|-: ~Q -> T
 8.8 P v Q, (~P <-> R) & T :|-:  R -> Q
