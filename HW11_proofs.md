@@ -26,9 +26,12 @@ There is no feedback, either at the end of each line or when the proof is comple
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="16"}
 11.5 P -> Q, P -> ~Q :|-: ~P
 11.6 Q <-> P, ~(Q v R) :|-: ~P 
+~~~
+
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="16"}
 11.7 P -> Q :|-: ~(P & ~Q)
-|P -> Q	:PR
-|	P & ~Q	:AS
+|P -> Q :PR
+| P & ~Q :AS
 | 
 ~~~
 
