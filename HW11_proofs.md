@@ -46,9 +46,9 @@ This proof (in 11.9) requires two subproofs. Assume P first (for `->I`) and then
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render resize" guides="fitch" points="20" late-credit="16"}
 11.9 ~(P & ~Q) :|-: P -> Q 
 |~(P & ~Q) :PR
-| P :AS
-|  ~Q :AS
-|  ?
+|	P	:AS
+|		~Q	:AS
+|		
 ~~~
 
 &copy; 2023 Gregory Johnson 
