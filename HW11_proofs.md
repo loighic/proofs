@@ -28,8 +28,8 @@ There is no feedback, either at the end of each line or when the proof is comple
 11.6 Q <-> P, ~(Q v R) :|-: ~P 
 11.7 P -> Q :|-: ~(P & ~Q)
 |P -> Q	:PR
-|	|P & ~Q	:AS
-|
+|	P & ~Q	:AS
+| 
 ~~~
 
 For 11.8, do all of the `&E` and `<->E` that you can before making an assumption for `~E`.
