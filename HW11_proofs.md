@@ -48,7 +48,7 @@ This proof (in 11.9) requires two subproofs. Assume P first (for `->I`) and then
 |~(P & ~Q) :PR
 | P :AS
 |  ~Q :AS
-|  y
+|  ?
 ~~~
 
 &copy; 2023 Gregory Johnson 
