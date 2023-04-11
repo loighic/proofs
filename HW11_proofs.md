@@ -32,7 +32,7 @@ There is no feedback, either at the end of each line or when the proof is comple
 11.7 P -> Q :|-: ~(P & ~Q)
 |P -> Q  :PR
 |  P & ~Q  :AS
-|...
+|... 3
 ~~~
 
 For 11.8, do all of the `&E` and `<->E` that you can before making an assumption for `~E`.
@@ -47,6 +47,6 @@ This proof (in 11.9) requires two subproofs. Assume P first (for `->I`) and then
 11.9 ~(P & ~Q) :|-: P -> Q 
 ~~~
 
-&copy; 2022 Gregory Johnson 
+&copy; 2023 Gregory Johnson 
  
 ---
