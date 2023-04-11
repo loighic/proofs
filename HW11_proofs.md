@@ -23,7 +23,7 @@ There is no feedback, either at the end of each line or when the proof is comple
 
 **main problems**
 
-You are given the assumption or assumptions that you need in 11.7 and 11.9. Carnap formats the lines containing the assumptions that you are given with a single space for the indents. Ideally, you should use a tab space, but to do that in these two proofs, you need to change the single spaces to tab spaces. Alternatively, just use single spaces for all of your indents in those two. 
+In 11.7 and 11.9., you are given the assumption or assumptions that you need. Carnap formats the lines containing the assumptions that you are given with a single space for the indents. Ideally, you should use a tab space, but to do that in these two proofs, you need to change the single spaces to tab spaces. Alternatively, just use single spaces for all of your indents in those two. 
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent resize" guides="fitch" points="20" late-credit="16"}
 11.5 P -> Q, P -> ~Q :|-: ~P
