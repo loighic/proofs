@@ -20,7 +20,7 @@ You also have to make two assumptions in problem 12.3. Both of those assumptions
 12.2 F -> (G -> H), ~J -> (F v H), F -> G :|-: ~J -> H
 ~~~
 
-In 12.3, you are given the assumptions that you need. Carnap formats these lines with a single space for the indents. Ideally, you should use a tab space, but for these two, either just use single spaces for all of your indents or change the single spaces to tab spaces. Also, be aware of your spacing and how you are formating the sub-proofs. If you need to delete everything that is in the box and type the proof yourself. 
+In 12.3, you are given the assumptions that you need. Carnap formats these lines with a single space for the indents. Ideally, you should use a tab space, but for this one, either just use single spaces for all of your indents or change the single spaces to tab spaces. Also, be aware of your spacing and how you are formating the sub-proofs. If it will be easier, delete everything that is in the box and type the proof yourself. 
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="16"}
 12.3 P v Q :|-: Q v P
