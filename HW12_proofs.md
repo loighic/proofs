@@ -25,12 +25,12 @@ In 12.3, you are given the assumptions that you need. Carnap formats these lines
 |P v Q :PR
 |	~(Q v P) :AS
 |		~P :AS
-|  
-|  
-|  
+|		
+|		
+|		
 |	P
-| 
-| 
+|	
+|	
 |Q v P
 ~~~
 
