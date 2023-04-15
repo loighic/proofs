@@ -27,7 +27,7 @@ There is no feedback, either at the end of each line or when the proof is comple
 10.5 B -> (~C -> D) :|-: (B & ~C) -> D
 ~~~
 
-For 10.6, you need to use conditional introduction rule, but it won't be to get the conclusion (which isn't a conditional). Think about how you will get the conclusion, given that you have `P` before the double arrow in (P &LeftRightArrow; (&not;R &rarr; T)).
+For 10.6, you need to use conditional introduction rule, but it won't be to get the conclusion (which isn't a conditional). Think about how you will get the conclusion, given that you have `P` before the double arrow in `(P &LeftRightArrow; (&not;R &rarr; T))`.
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="16"}
 10.6 P <-> (~R -> T), R v T :|-: P 
