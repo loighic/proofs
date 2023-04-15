@@ -23,7 +23,7 @@ In 12.3, you are given the assumptions that you need. Carnap formats these lines
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="16"}
 12.3 P v Q :|-: Q v P
 |P v Q :PR
-| ~(P v Q) :AS
+| ~(Q v P) :AS
 |  ~P :AS
 |  
 |  
