@@ -12,7 +12,13 @@ Each problem is worth 20 points, and the whole assignment is worth 100 points. P
 12.1 Q & R, Q -> (P v S), ~(S & R)  :|-: P
 ~~~
 
+---
+In 12.2 and 12.3, you are given the assumptions that you need. Carnap formats these lines with a single space for the indents. Ideally, you should use a tab space, but for these two, either just use single spaces for all of your indents or change the single spaces to tab spaces. Also, be aware of your spacing and where the sub-proofs are. If it will be easier, delete everything that is in the box (or everything after the premises) and type the proof yourself. 
+---
+
 In 12.2, you have to make two assumptions. The first assumption is made so that you can use the conditional introduction rule. The second assumption will be discharged with either the negation introduction or negation elimination rule.
+
+Replace the `?` on line 4, and when you do so, make sure that the &not;H on line 5 remains as the beginning of the second sub-proof.
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="16"}
 12.2 F -> (G -> H), ~J -> (F v H), F -> G :|-: ~J -> H
@@ -24,7 +30,6 @@ In 12.2, you have to make two assumptions. The first assumption is made so that 
 |  
 ~~~
 
-In 12.3, you are given the assumptions that you need. Carnap formats these lines with a single space for the indents. Ideally, you should use a tab space, but for this one, either just use single spaces for all of your indents or change the single spaces to tab spaces. Also, be aware of your spacing and where the sub-proofs are. If it will be easier, delete everything that is in the box and type the proof yourself. 
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="16"}
 12.3 P v Q :|-: Q v P
