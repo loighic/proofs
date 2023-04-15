@@ -16,6 +16,12 @@ In 12.2, you have to make two assumptions. The first assumption is made so that 
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="16"}
 12.2 F -> (G -> H), ~J -> (F v H), F -> G :|-: ~J -> H
+|F -> (G -> H) :PR
+|~J -> (F v H) :PR
+|F -> G :PR
+| ? :AS
+|  ~H :AS
+|  
 ~~~
 
 In 12.3, you are given the assumptions that you need. Carnap formats these lines with a single space for the indents. Ideally, you should use a tab space, but for this one, either just use single spaces for all of your indents or change the single spaces to tab spaces. Also, be aware of your spacing and where the sub-proofs are. If it will be easier, delete everything that is in the box and type the proof yourself. 
