@@ -43,7 +43,7 @@ For 11.8, do all of the &E and &LeftRightArrow;E that you can before making an a
 11.8 P <-> (~Q & S), P & (~T -> ~S) :|-: ~Q & T 
 ~~~
 
-This proof (in 11.9) requires two subproofs. Assume P first (for &rarr;I) and then assume &not;Q (for &not;E). Also, take a look at section 14.10 in the textbook (&lsquo;Even more examples&rsquo;). A sub-proof inside a sub-proof looks like the fourth example in that section. 
+This proof (in 11.9) requires two subproofs. Assume P first (for &rarr;&#73;) and then assume &not;Q (for &not;E). Also, take a look at section 14.10 in the textbook (&lsquo;Even more examples&rsquo;). A sub-proof inside a sub-proof looks like the fourth example in that section. 
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
 11.9 ~(P & ~Q) :|-: P -> Q 
