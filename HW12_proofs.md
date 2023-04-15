@@ -14,7 +14,7 @@ Each problem is worth 20 points, and the whole assignment is worth 100 points. P
 
 ---
 
-In 12.2 and 12.3, you are given the assumptions that you need. Carnap formats these lines with a single space for the indents. Ideally, you should use a tab space, but for these two, either just use single spaces for all of your indents or change the single spaces to tab spaces. Also, be aware of your spacing and where the sub-proofs are. If it will be easier, delete everything that is in the box (or everything after the premises) and type the proof yourself. 
+The proofs in 12.2 and 12.3 are started for you. Carnap formats these lines with a single space for the indents. Ideally, you should use a tab space, but for these two, either just use single spaces for all of your indents or change the single spaces to tab spaces. Also, be aware of your spacing and where the sub-proofs are. If it will be easier, delete everything that is in the box (or everything after the premises) and type the proof yourself. 
 
 ---
 
