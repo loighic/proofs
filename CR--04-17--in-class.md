@@ -36,6 +36,6 @@ This proof (in 9.5) requires two subproofs. Assume P first (for `->I`) and then 
 |  
 ~~~
 
-&copy; 2023 Gregory Johnson 
+&copy; 2023 Gregory Johnson
  
 ---
