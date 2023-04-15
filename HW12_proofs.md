@@ -27,19 +27,19 @@ You also have to make two assumptions in problem 12.3. Both of those assumptions
 |  ~P :AS
 |  
 |  
-|  ?
+|  
 | P
-| ?
+| 
 | 
 |Q v P
 ~~~
 
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent resize" guides="fitch" points="20" late-credit="16"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="16"}
 12.4 ~P v ~Q :|-: ~(P & Q)
 ~~~
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent resize" guides="fitch" points="20" late-credit="16"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="16"}
 12.5 (A -> B) & (~A -> C), ~B :|-: C
 ~~~
 
