@@ -25,12 +25,12 @@ There is no feedback, either at the end of each line or when the proof is comple
 
 In 11.7 and 11.9, you are given the assumption or assumptions that you need. Carnap formats these lines with a single space for the indents. Ideally, you should use a tab space, but for these two, either just use single spaces for all of your indents or change the single spaces to tab spaces.
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent resize" guides="fitch" points="20" late-credit="16"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="16"}
 11.5 P -> Q, P -> ~Q :|-: ~P
 11.6 Q <-> P, ~(Q v R) :|-: ~P 
 ~~~
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent resize" guides="fitch" points="20" late-credit="16"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="16"}
 11.7 P -> Q :|-: ~(P & ~Q)
 |P -> Q :PR
 | P & ~Q :AS
@@ -39,13 +39,13 @@ In 11.7 and 11.9, you are given the assumption or assumptions that you need. Car
 
 For 11.8, do all of the `&E` and `<->E` that you can before making an assumption for `~E`.
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render resize" guides="fitch" points="20" late-credit="16"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
 11.8 P <-> (~Q & S), P & (~T -> ~S) :|-: ~Q & T 
 ~~~
 
 This proof (in 11.9) requires two subproofs. Assume P first (for `->I`) and then assume ~Q (for `~E`). Also, take a look at section 14.10 in the textbook (&lsquo;Even more examples&rsquo;). A sub-proof inside a sub-proof looks like the fourth example in that section. 
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render resize" guides="fitch" points="20" late-credit="16"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
 11.9 ~(P & ~Q) :|-: P -> Q 
 |~(P & ~Q) :PR
 | P :AS
