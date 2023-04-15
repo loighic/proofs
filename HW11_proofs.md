@@ -37,7 +37,7 @@ In 11.7 and 11.9, you are given the assumption or assumptions that you need. Car
 | 
 ~~~
 
-For 11.8, do all of the `&E` and `<->E` that you can before making an assumption for `~E`.
+For 11.8, do all of the &E and &LeftRightArrow;E that you can before making an assumption for &not;E.
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
 11.8 P <-> (~Q & S), P & (~T -> ~S) :|-: ~Q & T 
