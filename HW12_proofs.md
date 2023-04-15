@@ -14,7 +14,7 @@ Each problem is worth 20 points, and the whole assignment is worth 100 points. P
 
 In 12.2, you have to make two assumptions. The first assumption is made so that you can use the conditional introduction rule. The second assumption will be discharged with either the negation introduction or negation elimination rule.
 
-You also have to make two assumptions in problem 12.3. Both of those assumptions will be discharged with either the negation introduction or negation elimination rule. (Hint for 12.3: On line 2, make your assumption the opposite of what you, eventually, want.)
+# You also have to make two assumptions in problem 12.3. Both of those assumptions will be discharged with either the negation introduction or negation elimination rule. (Hint for 12.3: On line 2, make your assumption the opposite of what you, eventually, want.)
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="16"}
 12.2 F -> (G -> H), ~J -> (F v H), F -> G :|-: ~J -> H
