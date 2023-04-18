@@ -8,7 +8,9 @@ Use your page of rules or the textbook. Don't guess about the rules.
 
 **warm-up, extra credit problems**
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="1" late-credit="1"}
+There is no feedback, either at the end of each line or when the proof is complete. Each can be submitted at any time (whether it is complete or incomplete, **correct or incorrect**), and each can only be submitted once.
+
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render exam" guides="fitch" feedback="none" points="1" late-credit="1"}
 11.1 ~P, (P v Q) :|-: Q
 11.2 S, S -> ~T :|-: ~T
 11.3 Q, R :|-: Q & R 

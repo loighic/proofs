@@ -6,7 +6,9 @@ Problems 13.5 - 13.9 are each worth 12 points, and the whole assignment is worth
 
 **warm-up, extra credit problems**
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="1" late-credit="1"}
+There is no feedback, either at the end of each line or when the proof is complete. Each can be submitted at any time (whether it is complete or incomplete, **correct or incorrect**), and each can only be submitted once.
+
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render exam" guides="fitch" feedback="none" points="1" late-credit="1"}
 13.1 R <-> (S & T), S & T :|-: R 
 13.2 P v Q, ~Q :|-: P 
 13.3 M, N v ~M :|-: N
