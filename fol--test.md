@@ -2,5 +2,12 @@
 
 ~~~{.ProofChecker .ZachFOL2019 options="fonts tabindent render" guides="fitch" points="10" late-credit="9"}
 2.1 ExF(x), Ax(F(x) -> G(x)) :|-: ExG(x) 
+2.2 Axf(x) :|-: AyFy
+2.3 Ax(F(x) -> G(x)), AxF(x) :|-: AxG(x)
+2.4 Ax(F(x) -> G(x)), F(a) :|-: Ex(F(x) & G(x))
+2.5 Ex(F(x) :|-: Ex(F(x) v G(x))
+2.6 Ex(F(x) -> P), AxF(x) :|-: P
+2.7 Ex(F(x) -> G(x)), AxF(x) :|-: ExG(x)
 ~~~
+
 
