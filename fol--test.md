@@ -5,7 +5,7 @@
 2.2 AxF(x) :|-: AyF(y)
 2.3 Ax(F(x) -> G(x)), AxF(x) :|-: AxG(x)
 2.4 Ax(F(x) -> G(x)), F(a) :|-: Ex(F(x) & G(x))
-
+2.5 ExF(x) :|-: Ex(F(x) & G(x))
 2.6 Ex(F(x) -> P), AxF(x) :|-: P
 2.7 Ex(F(x) -> G(x)), AxF(x) :|-: ExG(x)
 ~~~
