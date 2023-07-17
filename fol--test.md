@@ -1,6 +1,6 @@
 
 
-~~~{.ProofChecker .JohnsonFOL options="fonts tabindent render" guides="fitch" points="10" late-credit="9"}
+~~~{.ProofChecker .ZachFOL2019 options="fonts tabindent render" guides="fitch" points="10" late-credit="9"}
 2.1 Ex~F(x), Ax(F(x) or G(x)) :|-: ExG(x) 
 2.2 AxF(x) :|-: AyF(y)
 2.3 Ax(F(x) -> G(x)), AxF(x) :|-: AxG(x)
