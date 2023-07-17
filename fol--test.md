@@ -8,7 +8,7 @@
 2.5 ExF(x) :|-: Ex(F(x) or G(x))
 2.6 Ex(F(x) -> P), AxF(x) :|-: P
 2.7 Ex(F(x) -> G(x)), AxF(x) :|-: ExG(x)
-2.8 Ex((F(x) & Ay(F(y) -> P)) & G(x)), ~G(x) |- ~F(a)
+2.8 Ex((F(x) & Ay(F(y) -> P)) & G(x)), ~G(x) :|-: ~F(a)
 ~~~
 
 
