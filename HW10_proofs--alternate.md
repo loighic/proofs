@@ -20,10 +20,10 @@ There is no feedback, either at the end of each line or when the proof is comple
 **main problems** 
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="6" late-credit="6"}
-10.5 M -> N, M :|-: N
-10.6 P <-> Q, P :|-: Q 
-10.7 P <-> Q, Q :|-: P
-10.8 S -> T, T -> S :|-: T <-> S
+10.5 M -> N, (M & R) :|-: N
+10.6 ~P <-> Q, ~P :|-: Q 
+10.7 P <-> (Q & T), P :|-: (Q & T)
+10.8 ~P <-> (Q & T), ~P :|-: T
 ~~~
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="12" late-credit="12"}
@@ -38,7 +38,7 @@ There is no feedback, either at the end of each line or when the proof is comple
 10.11 Q v T, ~S & ~Q :|-: T
 ~~~
 
-&copy; 2023 Gregory Johnson 
+<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
 
 ---
 

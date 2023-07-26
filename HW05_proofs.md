@@ -37,7 +37,7 @@ Problems 5.5 - 5.9 are each worth 20 points, and the whole assignment is worth 1
 5.9 P & Q, (~R v Q) -> S :|-: S & P  
 ~~~
 
-<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p> 
+<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
 
 ---
 

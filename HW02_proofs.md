@@ -31,6 +31,6 @@ To do 2.7 - 2.10, see the subsection of 14.3 titled "Double negation."
 2.10 R v ~T, T :|-: R
 ~~~
 
-&copy; 2023 Gregory Johnson
+<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
 
 --- 

@@ -39,7 +39,6 @@ There is no feedback, either at the end of each line or when the proof is comple
 12.9 P & Q, (~R v Q) -> S :|-: S & P  
 ~~~
 
-&copy; 2023 Gregory Johnson 
-
+<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
 ---
 

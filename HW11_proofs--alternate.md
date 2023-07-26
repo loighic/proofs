@@ -42,6 +42,6 @@ If you are having trouble with 11.9, consult section 14.3, especially the subsec
 11.9 ((~P v Q) & R), P :|-: Q
 ~~~
 
-&copy; 2023 Gregory Johnson 
+<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
 
 ---
