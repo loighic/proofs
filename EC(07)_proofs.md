@@ -19,6 +19,8 @@ Use your page of rules. **Don't guess!**
 7.10 S, P, R :|-: (P & R) & (S v T)
 ~~~
 
-<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p> :)
+<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
+
+&1F642;
  
 ---
