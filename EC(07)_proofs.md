@@ -21,6 +21,6 @@ Use your page of rules. **Don't guess!**
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
 
-<p><font size="14">&#9786;</font></p>
+<font size="10">&#9786;</font>
  
 ---
