@@ -40,5 +40,7 @@ There is no feedback, either at the end of each line or when the proof is comple
 ~~~
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
+
+&#128578;
 ---
 
