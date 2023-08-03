@@ -10,7 +10,7 @@ Use your page of rules. **Don't guess!**
 7.1 S -> T, (S & R) :|-: T 
 7.2 G, ~D <-> G  :|-: ~D v S
 7.3 M, M -> (P & Q) :|-: P & M
-7.4 ~Q v P, Q :|-: P & Q
+7.4 Q v P, ~Q :|-: P & Q
 7.5 (T & S) <-> P, P :|-: P & T 
 7.6 R v Q, ~R, T & N :|-: Q & T
 7.7 ~P -> Q, R v ~P, ~R :|-: Q
