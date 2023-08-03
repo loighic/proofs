@@ -16,7 +16,7 @@ Use your page of rules. **Don't guess!**
 7.7 ~P -> Q, R v ~P, ~R :|-: Q
 7.8 N v ~R, (~N & ~R) -> M, ~N :|-: M
 7.9 (M v S), (Q -> ~M), Q :|-: Q & S
-7.10 S, P, R :|-: (P & R Q) & (S v T)
+7.10 S, P, R :|-: (P & R) & (S v T)
 ~~~
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
