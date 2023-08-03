@@ -1,4 +1,4 @@
-## Extra credit (07) 
+## Extra credit (07)
 
 This is an extra credit assignment.
 
