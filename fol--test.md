@@ -15,4 +15,6 @@
 3.1 Ex~F(x), Ax(F(x) or G(x)) :|-: ExG(x) 
 3.2 G(a) & H(a), a=d :|-: G(d) & H(d)
 3.3 Ax(G(x,a) -> x=a), G(b,a) :|-: Ax(G(x,b) -> x=b)
+3.4 M(a) \/ N(a), N(b) -> b = d, ~M(a) :|-: N(d)
+3.5 Ax(x=a), M(b,a) :|-: ExM(x,x)
 ~~~
