@@ -17,5 +17,5 @@
 3.3 Ax(G(x,a) -> x=a), G(b,a) :|-: Ax(G(x,b) -> x=b)
 3.4 M(a) \/ N(b), N(b) -> b=d, ~M(a) :|-: N(d)
 3.5 a=b, M(b,a) :|-: ExM(x,x)
-3.6 Ax(F(x) & G(x)) :|-: Ax(F(x)) 
+3.6 Ax(F(x) & G(x)) :|-: AxF(x) 
 ~~~
