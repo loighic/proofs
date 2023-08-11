@@ -16,9 +16,9 @@ For 2.4, just add what is needed at the far right of each line.
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="7" late-credit="6"}
 2.4 ((R & T) & S) & ~Q :|-: (R & T)
-|1. ((R & T) & S) & ~Q
-|2. (R & T) & S
-|3. R & T
+|1.((R & T) & S) & ~Q
+|2.(R & T) & S
+|3.R & T
 ~~~
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="7" late-credit="6"}
