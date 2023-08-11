@@ -26,12 +26,11 @@ Problems 5.5 - 5.9 are each worth 20 points, and the whole assignment is worth 1
 5.6 Q -> (P v S), R v Q, ~R :|-: P v S
 
 5.7 (T & Q) & R,  (T & R) -> S :|-: S
-5.7 P -> ~Q, (~Q v R)-> ~S, P & T :|-: ~S
+5.7 (~Q v R)-> ~S, (~Q v R) & T :|-: ~S
 
 5.8 ~P v ~R, ~R <-> S, P :|-: S & ~R
 5.8 ~B -> C, ~A v ~B, A :|-: D v C
 
-5.9 (~C v F) -> D, F, ~A :|-: ~A & D 
 5.9 (P v R) -> Q, R, S :|-: S & Q
 5.9 P & Q, (R v Q) -> T :|-: T & Q
 5.9 T & Q, (~R v Q) -> S :|-: S & T  
