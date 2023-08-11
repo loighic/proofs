@@ -22,19 +22,19 @@ Problems 5.5 - 5.9 are each worth 20 points, and the whole assignment is worth 1
 5.5 A->B, C<->B, A :|-: B & C
 5.5 T <-> S, T -> W, S :|-: T & W
 
-5.6 (T & Q) & R,  (T & R) -> S :|-: S
-5.6 P -> ~Q, (~Q v R)-> ~S, P & T :|-: ~S
+5.6 P -> (Q v S), P & ~S :|-: Q
+5.6 Q -> (P v S), R v Q, ~R :|-: P v S
 
-5.7 A -> (B v C), A & ~C :|-: B
-5.7 B -> (A v C), D v B, ~D :|-: A v C
+5.7 (T & Q) & R,  (T & R) -> S :|-: S
+5.7 P -> ~Q, (~Q v R)-> ~S, P & T :|-: ~S
 
 5.8 ~P v ~R, ~R <-> S, P :|-: S & ~R
 5.8 ~B -> C, ~A v ~B, A :|-: D v C
 
 5.9 (~C v F) -> D, F, ~A :|-: ~A & D 
 5.9 (P v R) -> Q, R, S :|-: S & Q
-5.9 A & B, (C v B) -> D :|-: D & A
-5.9 P & Q, (~R v Q) -> S :|-: S & P  
+5.9 P & Q, (R v Q) -> T :|-: T & Q
+5.9 T & Q, (~R v Q) -> S :|-: S & T  
 ~~~
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
