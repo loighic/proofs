@@ -8,9 +8,20 @@ For 2.3 - 2.9, you need to use the same rules as you used in HW 1, but each proo
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="7" late-credit="6"}
 2.1 (P & Q) & R :|-: R
-2.2 (P & Q) & R :|-: (P & Q) 
+2.2 (P & Q) & R :|-: (P & Q)
 2.3 (P & Q) & R :|-: P
+~~~
+
+For 2.4, just add what is needed at the far right of each line.
+
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="7" late-credit="6"}
 2.4 ((R & T) & S) & ~Q :|-: (R & T)
+|1. ((R & T) & S) & ~Q
+|2. (R & T) & S
+|3. R & T
+~~~
+
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="7" late-credit="6"}
 2.5 ((R & T) & S) & ~Q :|-: R
 2.6 ~R & T :|-: ~R v S
 2.7 ~P & Q :|-: T v Q
