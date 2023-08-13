@@ -34,6 +34,6 @@ The argument given in 1.5 has two premises, which should be put in the proof as 
 1.9 P v R, ~P :|-: R 
 ~~~
 
-&copy; 2022 Gregory Johnson
+<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
  
 ---
