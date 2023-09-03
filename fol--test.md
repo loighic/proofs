@@ -18,4 +18,5 @@
 3.4 M(a) \/ N(b), N(b) -> b=d, ~M(a) :|-: N(d)
 3.5 a=b, M(b,a) :|-: ExM(x,x)
 3.6 Ax(F(x) & G(x)) :|-: AxF(x) 
+3.7 :|-: Axyz((F(x,y) & F(y,z)) -> F(x,z))
 ~~~
