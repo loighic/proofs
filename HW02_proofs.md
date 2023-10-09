@@ -61,6 +61,6 @@ To do 2.13 - 2.15, see the subsection of 13.3 titled "Double negation."
 
 <font size="6.5">&#9786;</font>
 
-<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
+<p>&copy; 2019 - <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
 
 --- 
