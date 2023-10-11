@@ -9,6 +9,8 @@
 3.9 S -> R, T & (R -> S) :|-: R <-> S
 ~~~
 
+<font size="6.5">&#9786;</font>
+
 <p>&copy; 2019 - <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
 
 ---
