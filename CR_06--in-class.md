@@ -1,5 +1,7 @@
 ## proofs, assignment 06 (in-class)
 
+:)
+
 ---
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render resize" guides="fitch" points="25" late-credit="19"}
