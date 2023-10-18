@@ -21,7 +21,7 @@ Problems 7.4 - 7.8 are each worth 20 points, and the whole assignment is worth 1
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
 7.4 L <-> (M v R), M :|-: L
 
-7.5 ((A & B) & ~C) & F :|-: (B v E) & ~C
+7.5 ((D & F) & ~G) & H :|-: (F v J) & ~G
 7.5 P & (~Q & (R & T)) :|-: (R v S) & P
 
 7.6 ~P v ~R, ~R <-> S, P :|-: S & ~R
