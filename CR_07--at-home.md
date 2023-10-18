@@ -8,7 +8,7 @@ Problems 7.4 - 7.8 are each worth 20 points, and the whole assignment is worth 1
 
 **warm-up, extra credit problems**
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="2" late-credit="1"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render resize" guides="fitch" points="2" late-credit="1"}
 7.1 R <-> (S & T), S & T :|-: R 
 7.2 P v Q, ~Q :|-: P 
 7.3 M, N v ~M :|-: N
@@ -18,7 +18,7 @@ Problems 7.4 - 7.8 are each worth 20 points, and the whole assignment is worth 1
 
 **main problems**
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render resize" guides="fitch" points="20" late-credit="16"}
 7.4 L <-> (M v R), M :|-: L
 
 7.5 ((D & F) & ~G) & H :|-: (F v J) & ~G
