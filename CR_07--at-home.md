@@ -25,7 +25,7 @@ Problems 7.4 - 7.8 are each worth 20 points, and the whole assignment is worth 1
 7.5 P & (~Q & (R & T)) :|-: (R v S) & P
 
 7.6 ~P v ~R, ~R <-> S, P :|-: S & ~R
-7.6 ~B -> C, ~A v ~B, A :|-: D v C
+7.6 ~D -> F, ~C v ~D, C :|-: C & F
 
 7.7 (P v R) -> Q, R, S :|-: S & Q
 7.7 P & Q, (R v Q) -> T :|-: T & Q
