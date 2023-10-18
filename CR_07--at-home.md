@@ -1,4 +1,4 @@
-## HW 6
+## proofs, assignment 07 (at-home)
 
 Problems 6.4 - 6.8 are each worth 20 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 16 points.
 
