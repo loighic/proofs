@@ -1,4 +1,4 @@
-## playground (.JohnsonSL)
+## playground
 
 If you want to do a proof for an argument that hasn't been assigned, you can do it here. 
 
