@@ -9,7 +9,9 @@ If you are doing multiple proofs, then just refresh the page after each one to c
 ---
 
 ~~~{.Playground .johnsonSL init="now" options="fonts tabindent render resize"}
+
 ~~~
 
+---
 
 
