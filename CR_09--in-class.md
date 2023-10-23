@@ -17,11 +17,11 @@ For 9.1 - 9.4, there is no feedback, either at the end of each line or when the 
 
 **main problems**
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render exam resize" guides="fitch" feedback="none" points="20" late-credit="16"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render exam resize" guides="fitch" feedback="none" points="12" late-credit="9"}
 9.4 ~S v ~T :|-: S -> ~T 
 ~~~
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render resize" guides="fitch" points="20" late-credit="16"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render resize" guides="fitch" points="22" late-credit="17"}
 9.5 ~Q -> (K <-> (J & N)), ~Q & K  :|-: N
 9.6 P -> S, ~Q :|-: (P v Q) -> S
 9.7 P v Q, (~P <-> R) & T :|-:  R -> Q  
