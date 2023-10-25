@@ -17,7 +17,7 @@ For 9.1 - 9.4, there is no feedback, either at the end of each line or when the 
 
 **main problems**
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render exam resize" guides="fitch" feedback="none" points="12" late-credit="9"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render exam" guides="fitch" feedback="none" points="12" late-credit="9"}
 9.4 ~S v ~T :|-: S -> ~T 
 ~~~
 
