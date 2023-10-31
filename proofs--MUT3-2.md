@@ -1,5 +1,6 @@
 ## test 3, revision process, 2
 
+---
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="20"}
 2.1 P -> Q, R <-> P, P :|-: Q & R
