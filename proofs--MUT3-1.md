@@ -23,7 +23,5 @@ If you are having trouble with 1.10, consult section 13.3, especially the subsec
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
 
-:)
-
 ---
 
