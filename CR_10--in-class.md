@@ -23,7 +23,7 @@ There is no feedback, either at the end of each line or when the proof is comple
 10.3 ~P -> ~Q, Q :|-: P
 10.4 R <-> P, ~P :|-: ~R
 10.5 P -> Q, P -> ~Q :|-: ~P
-10.6 Q <-> P, ~(Q v R) :|-: ~P
+10.6 Q <-> ~P, ~(Q v R) :|-: P
 ~~~
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
