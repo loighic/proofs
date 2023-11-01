@@ -6,7 +6,7 @@ js: https://carnap.io/shared/gregory.s.johnson@gmail.com/copy.js
 
 ---
 
-<font color="#9900FF">**Do this alone**, and don't discuss it with anyone (besides the instructor) who hasn't done it.</font>
+<font color="#9900FF">**Do this alone**, and don't discuss it with anyone who hasn't done it. If you need help, contact the instructor.</font>
 
 ---
 
