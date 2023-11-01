@@ -1,0 +1,36 @@
+---
+js: https://carnap.io/shared/gregory.s.johnson@gmail.com/copy.js
+--- 
+
+## proofs, assignment 11 (at-home)
+
+
+**Do this alone, and don't discuss it with anyone (besides the instructor) who hasn't done it.**
+
+---
+
+**warm-up, extra credit problems**
+
+There is no feedback, either at the end of each line or when the proof is complete. Each can be submitted at any time (whether it is complete or incomplete, **correct or incorrect**), and each can only be submitted once.
+
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render exam" guides="fitch" feedback="none" points="1" late-credit="1"}
+11.1 R <-> ~T, ~T :|-: R 
+11.2 ~P v ~Q, Q :|-: ~P 
+~~~
+
+---
+
+**main problems**
+
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="15"}
+11.3 ~T -> ~R, R :|-: T
+11.4 R <-> P, ~P :|-: ~R
+11.5 R -> S, ~(S & T) :|-: ~(R & T)
+11.6 M v N, M -> (N & R) :|-: N
+11.7 P <-> (~R -> T), R v T :|-: P 
+
+~~~
+
+<p>&copy; 2019 - <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
+
+---
