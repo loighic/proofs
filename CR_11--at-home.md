@@ -4,8 +4,9 @@ js: https://carnap.io/shared/gregory.s.johnson@gmail.com/copy.js
 
 ## proofs, assignment 11 (at-home)
 
+---
 
-**Do this alone, and don't discuss it with anyone (besides the instructor) who hasn't done it.**
+**Do this alone**, and don't discuss it with anyone (besides the instructor) who hasn't done it.
 
 ---
 
