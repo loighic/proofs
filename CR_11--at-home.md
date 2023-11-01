@@ -28,8 +28,13 @@ There is no feedback, either at the end of each line or when the proof is comple
 11.4 R <-> P, ~P :|-: ~R
 11.5 R -> S, ~(S & T) :|-: ~(R & T)
 11.6 M v N, M -> (N & R) :|-: N
-11.7 P <-> (~R -> T), R v T :|-: P 
+~~~
 
+
+For 11.7, think about which rules you need to use. Don't just automatically go to negation intro or negation elim.
+
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="15"}
+11.7 P <-> (~R -> T), R v T :|-: P 
 ~~~
 
 <p>&copy; 2019 - <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
