@@ -19,9 +19,9 @@ Finally, if you need to use the negation intro or elim rules, then, when choosin
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="15"}
 14.1 R <-> P, ~P :|-: ~R
 14.2 ~P -> (R <-> S) :|-: (S & ~P) -> R
-14.3 (R & T) <-> ~S :|-: ~R -> S
-14.4 Q & R, Q -> (P v S), ~(S & R)  :|-: P
-14.5 T v ~W :|-: ~(~T & W)
+14.3 T v ~W :|-: ~(~T & W)
+14.4 (R & T) <-> ~S :|-: ~R -> S
+14.5 Q & R, Q -> (P v S), ~(S & R)  :|-: P
 ~~~
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
