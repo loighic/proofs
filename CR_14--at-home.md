@@ -12,7 +12,7 @@ js: https://carnap.io/shared/gregory.s.johnson@gmail.com/copy.js
 
 **Remember!** To begin, see if you can do conjunction elimination, disjunction elimination, conditional elimination, or biconditional elimination. 
 
-Next, determine if you need a conditional. If you  do, then you will need to use the conditional introduction rule. You know what the assumption will be and what will be on the last line of the sub-proof. 
+Next, determine if you need a conditional. If you  do, then you will need to use the conditional introduction rule. When using this rule, you know what the assumption will be and what will be on the last line of the sub-proof.
 
 Finally, if you need to use the negation intro or elim rules, then, when choosing the assumption, think about what you want when the sub-proof is finished. 
 
