@@ -16,7 +16,7 @@ Next, determine if you need a conditional. If you  do, then you will need to use
 
 Finally, if you need to use the negation intro or elim rules, then, when choosing the assumption, think about what you want when the sub-proof is finished. 
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="25" late-credit="17"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="15"}
 14.1 R <-> P, ~P :|-: ~R
 14.2 ~P -> (R <-> S) :|-: (S & ~P) -> R
 14.3 (R & T) <-> ~S :|-: ~R -> S
