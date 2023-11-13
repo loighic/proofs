@@ -21,6 +21,6 @@ Use your page of rules. Don't guess!
 7.10 S, P, R :|-: (P v Q) & (S & R)
 ~~~
 
-&copy; 2022 Gregory Johnson !
+&copy; 2022 Gregory Johnson
  
 ---

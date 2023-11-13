@@ -19,6 +19,6 @@ Each problem is worth 20 points, and the whole assignment is worth 100 points. P
 13.5 ~(~T v ~R) :|-: T & R
 ~~~
 
-&copy; 2022 Gregory Johnson 
+<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
  
 ---
