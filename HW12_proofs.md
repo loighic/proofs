@@ -56,6 +56,7 @@ Replace the `?` on line 4, and when you do so, make sure that the &not;H on line
 12.5 (A -> B) & (~A -> C), ~B :|-: C
 ~~~
 
-&copy; 2023 Gregory Johnson 
+
+<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
  
 ---

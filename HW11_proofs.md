@@ -53,6 +53,7 @@ This proof (in 11.9) requires two subproofs. Assume P first (for &rarr;<span sty
 |  
 ~~~
 
-&copy; 2023 Gregory Johnson 
+
+<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
  
 ---

@@ -6,7 +6,9 @@ Problems 5.5 - 5.9 are each worth 20 points, and the whole assignment is worth 1
 
 **warm-up, extra credit problems**
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="2" late-credit="1"}
+For 5.1 - 5.4, there is no feedback, either at the end of each line or when the proof is complete. Each can only be submitted when it is correct, however. 
+
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" feedback="none" points="2" late-credit="1"}
 5.1 S, S -> T :|-: T
 5.2 (N & R) -> P, N & R :|-: P 
 5.3 ~~S, ~S v T :|-: T

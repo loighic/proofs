@@ -29,6 +29,7 @@ For 8.1 - 8.4, there is no feedback, either at the end of each line or when the 
 8.9 ~S v ~T :|-: S -> ~T 
 ~~~
 
-&copy; 2022 Gregory Johnson 
+
+<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
  
 ---

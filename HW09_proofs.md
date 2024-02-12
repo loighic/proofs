@@ -28,6 +28,7 @@ For 9.1 - 9.4, there is no feedback, either at the end of each line or when the 
 9.9 W -> (Q & R), (R v ~Q) -> ( S & T), T <-> M :|-:  W -> M
 ~~~
 
-&copy; 2023 Gregory Johnson 
+
+<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
  
 ---

@@ -47,6 +47,7 @@ You need to use the negation eliminaton rule in 10.8, and the negation introduct
 10.9 R <-> P, ~P :|-: ~R
 ~~~
 
-&copy; 2022 Gregory Johnson 
+
+<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
  
 ---
