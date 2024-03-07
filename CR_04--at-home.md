@@ -1,6 +1,8 @@
 
 ## proofs, assignment 4 (at-home)
 
+---
+
 Problems 4.5 - 4.9 are each worth 20 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 16 points. Your grade will be put on a 10 point scale when it is posted in Canvas. 
 
 Use your page of rules or the textbook. Don't guess about the rules. 
