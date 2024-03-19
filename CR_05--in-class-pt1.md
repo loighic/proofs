@@ -1,5 +1,7 @@
 ## proofs, assignment 05 (in-class) [pt. 1 of 2]
 
+---
+
 You have 15 minutes to complete this part of the assignment with your group.
 
 ---
