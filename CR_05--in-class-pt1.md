@@ -9,7 +9,7 @@ js:
 
 ---
 
-You have 15 minutes to complete this part of the assignment with your group.
+You have 15 minutes to complete this part of the assignment with your group. __Time Remaining: <span id="testTimer">script not loaded</span>__
 
 ---
 
