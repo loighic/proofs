@@ -13,10 +13,11 @@
 
 **main problems**
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="25" late-credit="19"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
 5.5 P <-> N, ~S v P, S :|-: N 
 5.6 Q -> (P v S), R v Q, ~R :|-: P v S
 5.7 (T & Q) & ~R,  (T & ~R) -> S :|-: S
+5.8 (S & Q) & T, R <-> (S & T) :|-: R
 ~~~
 
 <p>&copy; 2019 - <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
