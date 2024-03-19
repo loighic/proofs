@@ -3,7 +3,7 @@
 
 ---
 
-**warm-up, extra credit problems**
+**warm-up, extra credit problem**
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="2" late-credit="1"}
 5.3 ~~S, ~S v T :|-: T
