@@ -13,7 +13,7 @@
 
 **main problems**
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="25" late-credit="19"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
 5.4 T <-> S, T -> W, S :|-: T & W
 ~~~
 
