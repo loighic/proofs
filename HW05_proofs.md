@@ -21,7 +21,6 @@ For 5.1 - 5.4, there is no feedback, either at the end of each line or when the 
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
 5.5 P->Q, R<->P, P :|-: Q & R
-5.5 A->B, C<->B, A :|-: B & C
 5.5 T <-> S, T -> W, S :|-: T & W
 
 5.6 P -> (Q v S), P & ~S :|-: Q
@@ -31,7 +30,7 @@ For 5.1 - 5.4, there is no feedback, either at the end of each line or when the 
 5.7 (~Q & T)-> ~S, (~Q & R) & T :|-: ~S
 
 5.8 ~P v ~R, ~R <-> S, P :|-: S & ~R
-5.8 ~B -> C, ~A v ~B, A :|-: D v C
+
 
 5.9 (P v R) -> Q, R, S :|-: S & Q
 5.9 P & Q, (R v Q) -> T :|-: T & Q
