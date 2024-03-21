@@ -4,7 +4,7 @@
 
 Problems 7.4 - 7.8 are each worth 20 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 15 points.
 
-<font color="#9900FF">**Do this alone. Contact the instructor if you need help.**</font>
+<font color="#9900FF">**Do this alone.** Contact the instructor if you need help.</font>
 
 ---
 
