@@ -1,5 +1,7 @@
 ## proofs, assignment 09 (in-class)
 
+---
+
 For 9.1 - 9.4, there is no feedback, either at the end of each line or when the proof is complete. Each one can be submitted if it is correct or incorrect.
 
 ---
@@ -28,6 +30,6 @@ For 9.1 - 9.4, there is no feedback, either at the end of each line or when the 
 9.8 W -> (Q & R), (R v ~Q) -> ( S & T), T <-> M :|-:  W -> M
 ~~~
 
-<p>&copy; 2019 - <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
+<p>&copy; 2019 - <script>document.write(new Date().getFullYear())</script> Gregory Scott Johnson</p>
 
 ---
