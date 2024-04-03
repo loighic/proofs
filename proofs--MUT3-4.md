@@ -10,7 +10,5 @@
 4.5 ~S v R, Q & W :|-: S -> (R & W)
 ~~~
 
-<font size="6.5">&#9786;</font>
-
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
  
