@@ -31,7 +31,7 @@ There is no feedback, either at the end of each line or when the proof is comple
 ~~~
 
 
-For 11.7, think about which rules you need to use. Don't just automatically go to negation intro or negation elim.
+For 12.7, think about which rules you need to use. Don't just automatically go to negation intro or negation elim.
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="15"}
 12.7 P <-> (~R -> T), R v T :|-: P 
