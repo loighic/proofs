@@ -2,7 +2,7 @@
 js: https://carnap.io/shared/gregory.s.johnson@gmail.com/copy.js
 --- 
 
-## proofs, assignment 15 (in-class)
+## proofs, assignment 16 (in-class)
 
 ---
 
@@ -20,6 +20,10 @@ There is no feedback, either at the end of each line or when the proof is comple
 **main problems**
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="25" late-credit="17"}
+13.3 ~T v W :|-: ~(T & ~W)
+
+13.3 Got moved from Thursday's assignment. Take out ~P -> Q \proves P v Q? We did this one in class already.
+
 15.3 M -> ~(S & T) :|-: (M & S) -> ~T
 15.4 ~P -> Q :|-: P v Q
 15.5 ~(T v ~W) :|-: ~T & W
