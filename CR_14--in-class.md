@@ -20,7 +20,7 @@ There is no feedback, either at the end of each line or when the proof is comple
 **main problems**
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="25" late-credit="17"}
-13.3 ~T v W :|-: ~(T & ~W)
+
 13.4 (N & ~Q) v R :|-: Q -> R
 13.5 ~(T v ~W) :|-: ~T & W
 13.6 F -> (G -> H), ~J -> (F v H), F -> G :|-: ~J -> H
