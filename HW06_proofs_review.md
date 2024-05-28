@@ -22,7 +22,5 @@ Use your page of rules. Don't guess!
 ~~~
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
-
-:)
  
 ---
