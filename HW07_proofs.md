@@ -18,7 +18,7 @@ Problems 7.4 - 7.8 are each worth 20 points, and the whole assignment is worth 1
 **main problems**
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
-7.5 ((M & P) & ~Q) & F :|-: (P v L) & ~Q
+7.5 ((M & P) & ~Q) & N :|-: (P v L) & ~Q
 7.5 P & (~Q & (R & T)) :|-: (R v S) & P
 
 7.6 N & ~G, (J -> T) <-> K, (K v G) & J :|-: ~G & T
@@ -35,8 +35,6 @@ You have to use the conditional introduction rule in the proof for 7.9.
 ~~~
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
-
-:)
  
 ---
  
