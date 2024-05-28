@@ -31,7 +31,7 @@ Problems 7.4 - 7.8 are each worth 20 points, and the whole assignment is worth 1
 You have to use the conditional introduction rule in the proof for 7.9.
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
-6.9 S & T :|-: R -> T
+7.9 S & T :|-: R -> T
 ~~~
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
