@@ -34,8 +34,9 @@ You have to use the conditional introduction rule in the proof for 7.9.
 6.9 S & T :|-: R -> T
 ~~~
 
-
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
+
+:)
  
 ---
  
