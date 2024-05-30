@@ -1,5 +1,7 @@
 ## proofs, practice problems, set 1
 
+---
+
 These are optional, and you can work on them with others. They can't be submitted, but you can see whether or not you have done them correctly.
 
 Problems 0.1 - 0.6 are the same as the proofs that I did in the first set of videos (where I was writing) that are posted in Canvas. 
