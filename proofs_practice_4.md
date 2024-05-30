@@ -37,7 +37,7 @@ Problems 0.9 and 0.10 require two subproofs. In each, you have to use `->I` and 
 0.10 (B & ~Q) v G :|-: Q -> G
 ~~~
 
-&copy; 2021 - <script>document.write(new Date().getFullYear())</script> Gregory Johnson 
+&copy; 2021 - <script>document.write(new Date().getFullYear())</script>Gregory Johnson. 
  
 ---
 
