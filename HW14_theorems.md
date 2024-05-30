@@ -13,19 +13,19 @@ In each problem, the sentence that is after the turnstile is a theorem. That mea
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="16"}
 14.1 :|-: P -> (P v Q)
 14.1 :|-: T -> (S v T)
-14.1 :|-: B -> (~A v B)
+14.1 :|-: M -> (~L v M)
 14.2 :|-: (P & Q) -> (P v R)
-14.2 :|-: (A & C) -> (C v D)
-14.3 :|-: C -> ~~C
+14.2 :|-: (L & P) -> (P v Q)
+14.3 :|-: P -> ~~P
 14.4 :|-: ~((Q -> P) & (Q & ~P))
 14.4 :|-: ~((R & ~T) & (R <-> T))
-14.4 :|-: ~((D <-> F) & (D & ~F))
-14.4 :|-: ~((B & ~C) & (B -> C))
+14.4 :|-: ~((Q <-> S) & (Q & ~S))
+14.4 :|-: ~((M & ~P) & (M -> P))
 14.5 :|-: (S v T) -> (~T -> S)
 14.5 :|-: (P <-> Q) -> (P -> Q)
-14.5 :|-: (B v ~C) -> (C -> B)
+14.5 :|-: (M v ~P) -> (P -> M)
 ~~~
 
-&copy; 2022 Gregory Johnson 
+<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson.</p>
  
 ---
