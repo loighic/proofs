@@ -1,5 +1,7 @@
 ## proofs, practice problems, set 4
 
+---
+
 These are optional, and you can work on them with others. They can't be submitted, but you can see whether or not you have done them correctly.
 
 ---
