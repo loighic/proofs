@@ -51,6 +51,6 @@ __Part 4.__ The settings in this part are the same as they have been on the assi
 0.15 :|-: (R -> T) -> ((T -> R) -> (R <-> T))
 ~~~
 
-&copy; 2021 - <script>document.write(new Date().getFullYear())</script> Gregory Johnson 
+<p>&copy; 2021 - <script>document.write(new Date().getFullYear())</script> Gregory Johnson.</p>
  
 ---
