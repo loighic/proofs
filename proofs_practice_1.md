@@ -17,6 +17,8 @@ Problems 0.1 - 0.6 are the same as the proofs that I did in the first set of vid
 0.6 S & T, Q v R, ~R :|-: Q & T
 ~~~
 
+---
+
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" submission="none"}
 0.7 (P & R) v S, ~S  :|-: R
 0.8 ~R, R v (P -> T) :|-: P -> T
