@@ -41,6 +41,6 @@ Problems 0.1 - 0.6 are the same as the proofs that I did in the first set of vid
 0.18 ~(Q v W) v Y, Q :|-: Y
 ~~~
 
-&copy; 2021 Gregory Johnson 
+<p>&copy; 2021 - <script>document.write(new Date().getFullYear())</script> Gregory Scott Johnson</p> 
 
 ---
