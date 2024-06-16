@@ -28,7 +28,7 @@ Problems 0.1 - 0.6 are the same as the proofs that I did in the first set of vid
 
 ---
 
-**0.11 - 0.18**&ensp; In some of the proofs, you have to use the double negation rule (right before you use the disjunction elimination rule) and in some you have to use the conditional elimination rule.
+**0.11 - 0.18**&ensp; In some of these proofs, you have to use the double negation rule (right before you use the disjunction elimination rule) and in some you have to use the conditional elimination rule.
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" submission="none"}
 0.11 (Q & P) & (R v ~P) :|-: R
