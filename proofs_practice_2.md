@@ -5,20 +5,14 @@ These are optional, and you can work on them with others. They can't be submitte
 ---
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" submission="none"}
-0.1 P v Q, ~P, T  :|-: Q & T
-0.2 (C & (D -> F)) & (A & B) :|-: A & (D -> F)
-0.3 G & (C & (B & ~D))  :|-: ~D v F
-0.4 A & C, C -> D :|-: D & A
-0.5 ~Q & (~Q -> (P & R)) :|-: R v S
-0.6 A v ~B, ~B-> C, ~A :|-: C
-0.7 ~P -> Q, R v ~P, ~R :|-: Q 
-0.8 (A->B) & (B->C), A :|-: C & B
-0.9 (B & A) -> D, ((A & C) & B) :|-: D
-0.10 (B v D)-> F, ((A -> B) & (A & R)) :|-: F
-0.11 P -> Q, R & T, T -> (Q -> P) :|-: P <-> Q
-0.12 P -> Q , Q -> P, (Q <-> P) -> T :|-: T & (P -> Q)
+0.1 P -> Q, R & T, T -> (Q -> P) :|-: P <-> Q
+0.2 (M->P) & (P->S), M :|-: P & S
+0.3 ~P -> ~Q, ~R v ~P, R :|-: ~Q 
+0.4 P -> Q , Q -> P, (Q <-> P) -> T :|-: T & (P -> Q)
+0.5 (S v T) -> Q, M & T :|-: M & Q 
+0.6 (L & M) <-> (R v S), (L & ~R), M :|-: S
 ~~~
 
-&copy; 2021 Gregory Johnson 
+<p>&copy; 2021 - <script>document.write(new Date().getFullYear())</script> Gregory Scott Johnson</p>
  
 ---
