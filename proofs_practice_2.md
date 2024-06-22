@@ -14,7 +14,5 @@ These are optional, and you can work on them with others. They can't be submitte
 ~~~
 
 <p>&copy; 2021 - <script>document.write(new Date().getFullYear())</script> Gregory Scott Johnson</p>
-
-:)
  
 ---
