@@ -4,7 +4,7 @@ Each problem is worth 7 points, and the whole assignment is worth 105 points. Pr
 
 --- 
 
-For 2.1 - 2.12, you need to use the same rules as you used in HW 1. But, for 2.3 - 2.11, each proof requires multiple steps (and so multiple applications of one or more of the rules). See sections 13.2 and 13.6 for some examples. 
+For 2.1 - 2.12, you need to use the same rules as you used in HW 1. But, for 2.3 - 2.11, each proof requires multiple steps (and so multiple applications of one or more of the rules). See sections 12.2 and 12.6 for some examples. 
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="7" late-credit="6"}
 2.1 (P & Q) & R :|-: R
