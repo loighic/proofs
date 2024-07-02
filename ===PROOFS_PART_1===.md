@@ -1,4 +1,3 @@
-## proofs, part 1
 
 ---
 
