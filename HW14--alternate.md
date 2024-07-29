@@ -19,6 +19,6 @@ Use your page of rules. Don't guess!
 14.10 S, P, R :|-: (P v Q) & (S & R)
 ~~~
 
-&copy; 2023 Gregory Johnson
+<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
  
 ---
