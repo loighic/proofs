@@ -1,6 +1,5 @@
 ## HW 12 (alternate)
 
-Problems 12.5 - 12.9 are each worth 12 points, and the whole assignment is worth 100 points.
 
 ---
 
@@ -19,7 +18,7 @@ There is no feedback, either at the end of each line or when the proof is comple
 
 **main problems**
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="12" late-credit="12"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="14" late-credit="14"}
 12.5 P & (~Q & (R & T)) :|-: (R v S) & P
 
 12.6 N & ~G, (J -> T) <-> K, (K v G) & J :|-: ~G & T
@@ -30,7 +29,7 @@ There is no feedback, either at the end of each line or when the proof is comple
 
 You have to use the conditional introduction rule in the proof for 12.9.
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="12" late-credit="12"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="14" late-credit="14"}
 12.9 S & T :|-: R -> T
 ~~~
 

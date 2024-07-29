@@ -1,6 +1,6 @@
 ## proofs HW 11 (alternate)
 
-Problems 11.5 - 11.9 are each worth 12 points, and the whole assignment is worth 100 points. Your grade will be put on a 10 point scale when it is posted in Canvas.
+
 
 ---
 
@@ -19,7 +19,7 @@ There is no feedback, either at the end of each line or when the proof is comple
 
 **main problems**
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="12" late-credit="12"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="14" late-credit="14"}
 11.5 P -> Q, R <-> P, P :|-: Q & R
 11.5 F -> H, G <-> H, F :|-: H & G
 11.5 T <-> S, T -> W, S :|-: T & W

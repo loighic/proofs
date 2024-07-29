@@ -1,18 +1,18 @@
 ## proofs HW 8 (alternate)
 
-Problems 8.1 - 8.4 are each worth 6 points. Problems 8.5 - 8.7 are each worth 12 points. 
+Problems 8.1 - 8.4 are each worth 7 points. Problems 8.5 - 8.7 are each worth 114 points. 
 
 ---
 
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="6" late-credit="6"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="7" late-credit="7"}
 8.1 M -> N, M :|-: N
 8.2 P <-> Q, P :|-: Q 
 8.3 P <-> Q, Q :|-: P
 8.4 S -> T, T -> S :|-: T <-> S
 ~~~
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="12" late-credit="12"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="14" late-credit="14"}
 8.5 P <-> Q, P & ~T :|-: Q
 8.5 R <-> S, ~T & R :|-: S
 8.5 S <-> T, ~W & T :|-: S

@@ -1,7 +1,5 @@
 ## proofs HW 10 (alternate)
 
-Problems 10.5 - 10.9 are each worth 12 points, and the whole assignment is worth 100 points. Your grade will be put on a 10 point scale when it is posted in Canvas. 
-
 Use your page of rules or the textbook. Don't guess about the rules. 
 
 ---
@@ -21,7 +19,7 @@ There is no feedback, either at the end of each line or when the proof is comple
 
 **main problems**
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="12" late-credit="12"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="14" late-credit="14"}
 10.5 (R & T), (T -> Q) :|-: (Q v P)
 10.5 G & D, D -> F :|-: F & G
 

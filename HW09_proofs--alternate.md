@@ -1,6 +1,6 @@
 ## proofs HW 9 (alternate)
 
-Problems 9.5 - 9.8 are each worth 6 points. Problems 9.9 - 9.11 are each worth 12 points. 
+Problems 9.5 - 9.8 are each worth 7 points. Problems 9.9 - 9.11 are each worth 14 points. 
 
 ---
 
@@ -19,14 +19,14 @@ There is no feedback, either at the end of each line or when the proof is comple
 
 **main problems** 
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="6" late-credit="6"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="7" late-credit="7"}
 9.5 M -> N, (M & R) :|-: N
 9.6 ~P <-> Q, ~P :|-: Q 
 9.7 P <-> (Q & T), P :|-: (Q & T)
 9.8 ~P <-> (Q & T), ~P :|-: T
 ~~~
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="12" late-credit="12"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="14" late-credit="14"}
 9.9 P <-> Q, P & ~T :|-: Q
 9.9 R <-> S, ~T & R :|-: S
 9.9 S <-> T, ~W & T :|-: S

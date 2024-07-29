@@ -6,7 +6,7 @@ Use your page of rules. Don't guess!
 
 ---
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="6" late-credit="6"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="7" late-credit="7"}
 14.1 S -> T, S :|-: T 
 14.2 G, ~D <-> G  :|-: ~D v S
 14.3 M, M -> D :|-: D & M
