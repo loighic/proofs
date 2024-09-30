@@ -6,15 +6,15 @@ Each problem is worth 12 points, and the whole assignment is worth 100 points (a
 
 ---
 
-Read sections 12.1 - 12.3. The first problem (1.1) is done for you. Just hit submit.
+The first problem is done for you. Just hit submit.
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="12" late-credit="10"}
 1.1 (P & Q) & T :|-: P & T
 |1.(P & Q) & T	:PR
 |2.(P & Q)	:&E 1
-|2.T	:&E 1
-|3.P	:&E 2
-|4.P & T	:&I 2,3
+|3.T	:&E 1
+|4.P	:&E 2
+|5.P & T	:&I 3,4 
 ~~~
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="12" late-credit="10"}
@@ -23,22 +23,22 @@ Read sections 12.1 - 12.3. The first problem (1.1) is done for you. Just hit sub
 1.4 P v Q, ~P :|-: ~P & Q
 ~~~
 
-~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="8"}
+~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample autoAtoms" points="10" late-credit="8"}
 1.5 (S v ~T), ~(~S & T)
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="10" late-credit="8"}
 1.6 Which one of the following is correct about (S &or; &not;T), the first sentence in 1.5?
-|* This sentence is a tautology.
+| This sentence is a tautology.
 | This sentence is a contradiction.
-| This sentence is contingent.
+|* This sentence is contingent.
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="10" late-credit="8"}
 1.7 Which one of the following is correct about &not;(&not;S &amp; T), the second sentence in 1.5?
-|* This sentence is a tautology.
+| This sentence is a tautology.
 | This sentence is a contradiction.
-| This sentence is contingent.
+|* This sentence is contingent.
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="10" late-credit="8"}
@@ -46,6 +46,17 @@ Read sections 12.1 - 12.3. The first problem (1.1) is done for you. Just hit sub
 |* The sentences are equivalent.
 | The sentences are jointly inconsistent.
 | The sentences are jointly consistent (but not equivalent).
+~~~
+
+
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash autoAtoms" points="10" late-credit="8"}
+1.9 P <-> ~S, S v ~T, T -> P
+~~~
+
+~~~{.QualitativeProblem .MultipleChoice options="exam" points="10" late-credit="8"}
+1.10 Which one of the following is correct about the argument in the previous problem?
+| This argument is valid.
+|* This  argument is invalid.
 ~~~
 
 
