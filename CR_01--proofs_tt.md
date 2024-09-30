@@ -2,13 +2,13 @@
 
 ---
 
-Each problem is worth 12 points, and the whole assignment is worth 100 points (although you can get 108). Problems that are submitted late will receive 10 points. Your grade will be put on a 10 point scale when it is posted in Canvas. 
+Each problem is worth 10 points, and the whole assignment is worth 100 points (although you can get 108). Problems that are submitted late will receive 8 points. Your grade will be put on a 10 point scale when it is posted in Canvas. 
 
 ---
 
 The first problem is done for you. Just hit submit.
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="12" late-credit="10"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="10" late-credit="8"}
 1.1 (P & Q) & T :|-: P & T
 |1.(P & Q) & T	:PR
 |2.(P & Q)	:&E 1
@@ -17,7 +17,7 @@ The first problem is done for you. Just hit submit.
 |5.P & T	:&I 3,4 
 ~~~
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="12" late-credit="10"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="10" late-credit="8"}
 1.2 P :|-: T v P 
 1.3 P, S :|-: S & (T v P)
 1.4 P v Q, ~P :|-: ~P & Q
