@@ -50,7 +50,7 @@ The first problem is done for you. Just hit submit.
 
 
 ~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash autoAtoms" points="10" late-credit="8"}
-1.9 P <-> ~S, S v ~T, T -> P
+1.9 P <-> ~S, S v ~T :|-: T -> P
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="10" late-credit="8"}
