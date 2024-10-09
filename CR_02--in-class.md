@@ -1,8 +1,6 @@
 ## proofs, assignment 2 (in-class)
 
-
 ---
-
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="27" late-credit="20"}
 2.1 P -> Q, P & ~T :|-: Q
