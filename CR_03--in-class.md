@@ -3,10 +3,10 @@
 ---
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="25" late-credit="20"}
-3.1 (~P & T) & (~T v S) :|-: S & ~P
-3.2 (R & T) v Q, S & ~(R & T) :|-: Q
-3.3 P, S & T, (T & P) -> Q :|-: Q
-3.4 S -> R, T & (R -> S) :|-: R <-> S
+4.1 (~P & T) & (~T v S) :|-: S & ~P
+4.2 (R & T) v Q, S & ~(R & T) :|-: Q
+4.3 P, S & T, (T & P) -> Q :|-: Q
+4.4 S -> R, T & (R -> S) :|-: R <-> S
 ~~~
 
 <font size="6.5">&#9786;</font>
