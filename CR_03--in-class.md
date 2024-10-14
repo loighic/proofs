@@ -1,4 +1,4 @@
-## proofs, assignment 3 (in-class)
+## proofs, assignment 4 (in-class)
 
 ---
 
