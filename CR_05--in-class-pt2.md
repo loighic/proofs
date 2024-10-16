@@ -1,6 +1,5 @@
 ## proofs, assignment 05 (in-class) [pt. 2 of 2]
 
-
 ---
 
 **warm-up, extra credit problem**
