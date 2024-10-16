@@ -2,6 +2,10 @@
 
 ---
 
+<font color="#9900FF">**Do this alone.** Contact the instructor if you need help.</font>
+
+---
+
 **warm-up, extra credit problems**
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="1" late-credit="1"}
