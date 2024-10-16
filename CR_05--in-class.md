@@ -21,6 +21,8 @@
 5.9 ([S & Q] & T), ~(R v N) <-> [S & T]), W v (R v N) :|-: W
 ~~~
 
+:)
+
 <p>&copy; 2019 - <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
 
 ---
