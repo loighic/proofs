@@ -6,7 +6,7 @@
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="1" late-credit="1"}
 6.1 (M v R), ~R :|-: M 
-6.2 (M v ~R, R :|-: M
+6.2 (M v ~R), R :|-: M
 ~~~
 
 ---
