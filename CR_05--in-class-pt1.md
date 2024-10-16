@@ -4,7 +4,6 @@ js:
 - https://carnap.io/shared/dsanson@gmail.com/timer.js
 --- 
 
-
 ## proofs, assignment 05 (in-class) [pt. 1 of 2]
 
 ---
