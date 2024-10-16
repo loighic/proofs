@@ -18,10 +18,9 @@
 5.4 T <-> S, T -> W, S :|-: T & W
 5.5 Q -> (P v S), R v Q, ~R :|-: P v S
 5.6 (T & Q) & ~R,  (T & ~R) -> S :|-: S
-5.9 ([S & Q] & T), ~(R v N) <-> [S & T]), W v (R v N) :|-: W
+5.9 ([S & Q] & T), ~(R v N) <-> [S & T], W v (R v N) :|-: W
 ~~~
 
-:)
 
 <p>&copy; 2019 - <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
 
