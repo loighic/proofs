@@ -21,7 +21,9 @@ For 9.1 - 9.3, there is no feedback, either at the end of each line or when the 
 9.5 S -> T, T -> W :|-:  S -> W
 ~~~
 
-You have to use the conditional introduction rule in 9.6 to get (P &rarr; W). (There is no way to simply extract the Q from (P & W) &rarr; Q and get P &rarr; Q.)
+You have to use the conditional introduction rule in 9.6 to get (P &rarr; W). 
+
+(There is no way to simply extract the W from (P & W) &rarr; Q and get P &rarr; Q.)
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render resize" guides="fitch" points="20" late-credit="16"}
 9.6 (P & Q) -> W, T & Q :|-: P -> W
