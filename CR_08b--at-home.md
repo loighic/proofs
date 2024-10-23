@@ -31,6 +31,11 @@ You have to use the conditional introduction rule in 9.6 to get <font color="#99
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render resize" guides="fitch" points="20" late-credit="16"}
 9.6 (P & Q) -> W, T & Q :|-: P -> W
+~~~
+
+Remember that you only start a sub-proof and make an assumption when you want to get a conditional. If you don't need a conditional, don't start a sub-proof.
+
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render resize" guides="fitch" points="20" late-credit="16"}
 9.7 (T & W) v P, (S v T) <-> M, ~P :|-: M & ~P
 ~~~
 
