@@ -20,7 +20,7 @@ For 9.1 - 9.3, there is no feedback, either at the end of each line or when the 
 9.4 S v (Q & W) :|-: ~S -> W
 9.5 S -> T, T -> W :|-:  S -> W
 9.6 (P & Q) -> W, T & Q :|-: P -> W
-9.7 (T & W) v P, (S v T) <->, ~P :|-: M & ~P
+9.7 (T & W) v P, (S v T) <-> M, ~P :|-: M & ~P
 ~~~
 
 <p>&copy; 2019 - <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
