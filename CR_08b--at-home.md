@@ -27,7 +27,7 @@ For 9.1 - 9.2, there is no feedback, either at the end of each line or when the 
 
 You have to use the conditional introduction rule in 9.6 to get <font color="#9900FF">(P &rarr; W)</font>. 
 
-(There is no way to simply remove the <font color="#9900FF">Q</font> from <font color="#9900FF">((P & Q) &rarr; W)</font> and get <font color="#9900FF">(P &rarr; W)</font>.)
+(There is no way just to remove the <font color="#9900FF">Q</font> from <font color="#9900FF">((P & Q) &rarr; W)</font> and get <font color="#9900FF">(P &rarr; W)</font>.)
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render resize" guides="fitch" points="20" late-credit="16"}
 9.6 (P & Q) -> W, T & Q :|-: P -> W
