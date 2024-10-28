@@ -2,7 +2,7 @@
 
 ---
 
-For 11.1 - **11.4**, there is no feedback, either at the end of each line or when the proof is complete. Each one can be submitted if it is correct or incorrect.
+For **11.1 - 11.4**, there is no feedback, either at the end of each line or when the proof is complete. Each one can be submitted if it is correct or incorrect.
 
 ---
 
