@@ -2,7 +2,6 @@
 
 ---
 
-
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="10" late-credit="10"}
 1.1 P <-> (Q & T), P :|-: (Q & T)
 1.2 ~P <-> (Q & T), ~P :|-: T
@@ -15,7 +14,7 @@
 1.9 ~N v P, ~N <-> S, ~P :|-: S
 ~~~
 
-If you are having trouble with 1.10, consult section 13.3, especially the subsection titled "Double negation."
+If you are having trouble with 1.10, consult section 12.3, especially the subsection titled "Double negation."
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="10" late-credit="10"}
 1.10 ((~P v Q) & R), P :|-: Q
