@@ -22,7 +22,7 @@ There is no feedback, either at the end of each line or when the proof is comple
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="25" late-credit="17"}
 16.3 M -> ~(S & T) :|-: (M & S) -> ~T
 16.4 ~P -> Q :|-: P v Q
-16.5 ~(T v ~W) :|-: ~T & W
+16.5 ~(P v ~S) :|-: ~P & S
 16.6 S v T :|-: T v S
 ~~~
 
