@@ -2,7 +2,7 @@
 js: https://carnap.io/shared/gregory.s.johnson@gmail.com/copy.js
 --- 
 
-## proofs, assignment 15 (at-home)
+## proofs, assignment 17 (at-home)
 
 ---
 
@@ -17,11 +17,11 @@ Next, determine if you need a conditional. If you  do, then you will need to use
 Finally, if you need to use the negation intro or elim rules, then, when choosing the assumption, think about what you want when the sub-proof is finished. 
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="15"}
-15.1 R <-> P, ~P :|-: ~R
-15.2 ~P -> (R <-> S) :|-: (S & ~P) -> R
-15.3 T v ~W :|-: ~(~T & W)
-15.4 (R & T) <-> ~S :|-: ~R -> S
-15.5 Q & R, Q -> (P v S), ~(S & R)  :|-: P
+17.1 R <-> P, ~P :|-: ~R
+17.2 ~P -> (R <-> S) :|-: (S & ~P) -> R
+17.3 T v ~W :|-: ~(~T & W)
+17.4 (R & T) <-> ~S :|-: ~R -> S
+17.5 Q & R, Q -> (P v S), ~(S & R)  :|-: P
 ~~~
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Scott Johnson</p>
