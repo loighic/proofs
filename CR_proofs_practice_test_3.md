@@ -6,15 +6,15 @@
 
 These are optional, and you can work on them with others.
 
-There is no feedback, either at the end of each line or when the proof is complete. The proofs in parts 1A and 2A can be submitted at any time (whether they are complete or incomplete, correct or incorrect), and each can only be submitted once. The proofs in parts 1B and 2B cannot be submitted until they are correct. There won't be any problems set up like the ones in 1B and 2B on the test, but it might be helpful to do some as practice. 
+There is no feedback at the end of each line. They cannot, however, be submitted until they are correct. There won't be any problems set up like these on the test, but it will be helpful to do these as practice. 
 
-These problems will not count toward your grade, but, so that you can check whether or not you did the ones in 1A and 2A correctly, each is worth 1 point.
+These do not count toward your grade.
 
 ---
 
 __Part 1A__
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent exam" feedback="none" guides="fitch" points="1" late-credit="1"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent" feedback="none" guides="fitch" points="1" late-credit="1"}
 0.1 P, (P v S) -> T :|-: T 
 0.2 R -> (P&Q), R :|-: Q v S
 0.3 P v Q, ~P, T :|-: Q & T
@@ -42,7 +42,7 @@ __Part 1B__
 
 __Part 2A__
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent exam" feedback="none" guides="fitch" points="1" late-credit="1"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent" feedback="none" guides="fitch" points="1" late-credit="1"}
 0.17 P v (R & S) :|-: ~P -> S
 0.18 ~Q v (R & T) :|-: Q -> T
 0.19 Q -> (S & T) :|-: Q -> T
