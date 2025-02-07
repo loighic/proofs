@@ -35,7 +35,7 @@ Problems 3.5 - 3.8 are each worth 10 points (or 8 if they are submitted late). P
 3.11 Q v T, ~S & ~Q :|-: T
 ~~~
 
-&copy; 2022 Gregory Johnson 
+<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
 
 ---
 
