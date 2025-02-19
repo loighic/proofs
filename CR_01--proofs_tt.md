@@ -10,7 +10,7 @@ Each problem is worth 10 points, and the whole assignment is worth 100 points. P
 1.1 (P & Q) & T :|-: P & T
 ~~~
 
-You just have to take one step (and use one rule) to complete the proof for 1.2. 1.3 and 1.4 
+You just have to take one step (and use one rule) to complete the proof in 1.2.
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="10" late-credit="8"}
 1.2 P :|-: T v P
