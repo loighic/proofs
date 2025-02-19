@@ -6,19 +6,19 @@ Each problem is worth 10 points, and the whole assignment is worth 100 points. P
 
 ---
 
-The first problem is done for you. Just hit submit.
-
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="10" late-credit="8"}
 1.1 (P & Q) & T :|-: P & T
-|1.(P & Q) & T	:PR
-|2.(P & Q)	:&E 1
-|3.T	:&E 1
-|4.P	:&E 2
-|5.P & T	:&I 3,4 
 ~~~
 
+You just have to take one step (and use one rule) to complete the proof for 1.2. 1.3 and 1.4 
+
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="10" late-credit="8"}
-1.2 P :|-: T v P 
+1.2 P :|-: T v P
+~~~
+
+See sections 12.1 and 12.2 (or anywhere else in chapter 12) for how to begin when an argument contains more than one premise. 
+
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="10" late-credit="8"} 
 1.3 P, S :|-: S & (T v P)
 1.4 P v Q, ~P :|-: ~P & Q
 ~~~
