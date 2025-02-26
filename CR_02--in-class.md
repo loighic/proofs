@@ -2,7 +2,7 @@
 
 ---
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="27" late-credit="20"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="25" late-credit="20"}
 2.1 P -> Q, P & ~T :|-: Q
 2.2 (P -> N) & ~R, P :|-: N
 2.3 Q v T, ~S & ~Q :|-: T
