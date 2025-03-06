@@ -1,10 +1,10 @@
-## proofs, assignment 05 (in-class)
+## proofs, assignment 05 (meeting)
 
 ---
 
 **warm-up, extra credit problems**
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="2" late-credit="1"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="1" late-credit="1"}
 5.1 (N & R) -> P, N & R :|-: P 
 5.2 ~~S, ~S v T :|-: T
 ~~~
@@ -13,7 +13,7 @@
 
 **main problems**
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="21" late-credit="15"}
 5.3 P <-> N, ~S v P, S :|-: N 
 5.4 T <-> S, T -> W, S :|-: T & W
 5.5 Q -> (P v S), R v Q, ~R :|-: P v S
