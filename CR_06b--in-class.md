@@ -8,9 +8,9 @@ Begin by listing the premise or premises, and then work to the conclusion. When 
 
 When you're done, take a photo or a screenshot of your proof and submit it on Canvas ("(Carnap) proofs, assignment 7a, (meeting)"). In the space for comments, list the other members of your group and the rules that they used like this:
 
-<p style="margin-left: 30px; text-indent: -20px;">Abby: &E, vE, &I<br>
-Dave: ->E, &E, vI<br>
-Carol: ... <br></p>
+<p style="margin-left: 30px; text-indent: -20px;">Abby: &E, vE, &I</p>
+<p style="margin-left: 30px; text-indent: -20px;">Dave: ->E, &E, vI</p>
+<p style="margin-left: 30px; text-indent: -20px;">Carol: ...</p>
 
 ---
 
