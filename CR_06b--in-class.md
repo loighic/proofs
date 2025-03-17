@@ -8,9 +8,9 @@ Begin by listing the premise or premises, and then work to the conclusion. When 
 
 When you're done, take a photo or a screenshot of your proof and submit it on Canvas (). In the space for comments, list the other members of your group and the rules that they used like this:
 
-Abby: &E, vE, &I
-Dave: ->E, &E, vI
-Carol: ... 
+Abby: &E, vE, &I<br>
+Dave: ->E, &E, vI<br>
+Carol: ... <br>
 
 ---
 
