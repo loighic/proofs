@@ -6,7 +6,7 @@ Come up with your own argument, and create a proof for it in the space below. Us
 
 Begin by listing the premise or premises, and then work to the conclusion. When you are finished, if the proof is complete and correct, every line will have a `+` at the far right and Carnap will display the premises and conclusion above your proof (but that box won't turn green). **Your argument has to be valid, and the proof has to be correct.**
 
-When you're done, take a photo or a screenshot of your proof and submit it on Canvas (). In the space for comments, list the other members of your group and the rules that they used like this:
+When you're done, take a photo or a screenshot of your proof and submit it on Canvas ("(Carnap) proofs, assignment 7a, in-class"). In the space for comments, list the other members of your group and the rules that they used like this:
 
 Abby: &E, vE, &I<br>
 Dave: ->E, &E, vI<br>
