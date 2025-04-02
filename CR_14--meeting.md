@@ -26,7 +26,7 @@ There is no feedback, either at the end of each line or when the proof is comple
 15.5 F -> (G -> H), ~J -> (F v H), F -> G :|-: ~J -> H
 ~~~
 
-:)
+:):)
 
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Scott Johnson</p>
