@@ -8,6 +8,8 @@
 3.3 P & Q, (~R v Q) -> S :|-: S & P 
 3.4 (P v Q) -> (S v T), Q & ~S :|-: T
 3.5 ~P v ~R, ~R <-> S, P :|-: S & ~R
+3.6 S <-> (P & Q), (T -> P) & (Q & T) :|-: S
+3.7 ~(P v T) v (M & Q), T & S :|-: M
 ~~~
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
