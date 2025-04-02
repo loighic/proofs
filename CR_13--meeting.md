@@ -26,8 +26,6 @@ There is no feedback, either at the end of each line or when the proof is comple
 13.6 P <-> (~Q & S), P & (~T -> ~S) :|-: ~Q & T 
 ~~~
 
-:):)
-
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
  
 ---
