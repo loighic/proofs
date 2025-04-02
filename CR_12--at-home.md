@@ -37,6 +37,6 @@ For 13.7, think about which rules you need to use. Don't just automatically go t
 13.7 P <-> (~R -> T), R v T :|-: P 
 ~~~
 
-<p>&copy; 2019 - <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
+<p>&copy; 2019 - <script>document.write(new Date().getFullYear())</script> Gregory Scott Johnson</p>
 
 ---
