@@ -27,8 +27,6 @@ There is no feedback, either at the end of each line or when the proof is comple
 12.7 (P -> T), (~T v S), (P v ~[S v W]) :|-: (P <-> T)
 ~~~
 
-:)
-
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
  
 ---
