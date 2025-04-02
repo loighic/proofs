@@ -15,7 +15,7 @@
 3.7 ~(P v T) v (M & Q), T & S :|-: M
 ~~~
 
-<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
+<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Scott Johnson</p>
 
 ---
 
