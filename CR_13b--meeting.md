@@ -4,10 +4,11 @@
 
 Come up with your own argument, and create a proof for it in the space below. Use at least three different rules and one of these premises:
 
-(P &or; Q) &rarr; (S & &not;T)
-(T & Q) v ~(S v R)
-(M & T) &harr; (&not;P &or; W)
-(S &or; &not;Q) &rarr; (M & W) 
+
+<p style="margin-left: 40px;">(P &or; Q) &rarr; (S & &not;T)<br>
+(T & Q) v ~(S v R)<br>
+(M & T) &harr; (&not;P &or; W)<br>
+(S &or; &not;Q) &rarr; (M & W)<br></p>
 
 Only use one of these premises. You can add whatever other premises you want. Everyone in your group should select a different premise from this set. 
 
