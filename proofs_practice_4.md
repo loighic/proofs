@@ -22,6 +22,8 @@ You have to use `->I` in 0.3 and the assumption should be ~A
 0.3 (~A -> B) -> C, (A v B) & D :|-: C
 ~~~
 
+You have to use the negation rules in 0.4 - 0.8.
+
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" submission="none"}
 0.4 P->~Q, Q :|-: ~P
 0.5 PvQ, ~P->~Q :|-: P
