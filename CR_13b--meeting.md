@@ -15,7 +15,7 @@ Do this with your group, but everyone in your group should have a different proo
 
 ---
 
-Begin by listing the premise or premises, and then work to the conclusion. When you are finished, if the proof is complete and correct, every line will have a `+` at the far right and Carnap will display the premises and conclusion above your proof (but that box won't turn green). **Your argument has to be valid, and the proof has to be correct.**
+Begin by listing the premise or premises, and then work to the conclusion. When you are finished, if the proof is complete and correct, every line will have a `+` at the far right and Carnap will display the premises and conclusion above your proof (but that box won't turn green). **Your argument has to be valid, and to be valid, every line of the proof has to have a `+`.**
 
 ---
 
