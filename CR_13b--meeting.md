@@ -19,7 +19,7 @@ Begin by listing the premise or premises, and then work to the conclusion. When 
 
 ---
 
-When you're done, take a photo or a screenshot of your proof and submit it on Canvas ("(Carnap) proofs, assignment 14a, (meeting)"). In the space for comments, list the other members of your group and the premise from the set above that they used.
+When you're done, take a photo or a screenshot of your proof and submit it on Canvas ("(Carnap) proofs, assignment 14a, (meeting)"). In the space for comments, list the other members of your group and the premise from the set above that each person used.
 
 ---
 
