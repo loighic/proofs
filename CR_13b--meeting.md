@@ -9,7 +9,7 @@ Create a proof for an argument in the space below. Use at least three different 
 (M & T) &harr; (&not;P &or; W)<br>
 (S &or; &not;Q) &rarr; (M & W)<br></p>
 
-Only use one of these premises. You can add whatever other premises you want. Everyone in your group should select a different premise from this set. 
+Only use one of these premises&mdash;and this premise has to be used in your proof. You can add whatever other premises you want. Everyone in your group should select a different premise from this set. 
 
 Do this with your group, but everyone in your group should have a different proof.
 
