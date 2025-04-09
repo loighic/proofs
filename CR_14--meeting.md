@@ -2,7 +2,7 @@
 js: https://carnap.io/shared/gregory.s.johnson@gmail.com/copy.js
 --- 
 
-## proofs, assignment 15 (in-class)
+## proofs, assignment 15 (meeting)
 
 ---
 
