@@ -6,13 +6,12 @@
 
 These are optional, and you can work on them with others.
 
-There is no feedback, either at the end of each line or when the proof is complete. The proofs can be submitted at any time (whether they are complete or incomplete, correct or incorrect), and each can only be submitted once. 
+There is no feedback, either at the end of each line or when the proof is complete.  
 
-These problems will not count toward your grade, but, so that you can check whether or not you did them correctly, each is worth 1 point.
 
 ---
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent exam" feedback="none" guides="fitch" points="1" late-credit="1"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent exam" feedback="none" guides="fitch" submission="none"}
 0.1 (M & Q) & ~P :|-: Q & ~P 
 0.2 (P & Q), (L & N) :|-: N & Q
 0.3 S, P, R :|-: (P v Q) & (S & R)
@@ -29,6 +28,6 @@ These problems will not count toward your grade, but, so that you can check whet
 0.14 (R & T) v ~P, P & S :|-: S & T
 ~~~
 
-<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p> 
+<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Scott Johnson</p> 
  
 ---
