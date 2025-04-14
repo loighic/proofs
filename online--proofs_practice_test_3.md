@@ -6,7 +6,7 @@
 
 These are optional, and you can work on them with others.
 
-There is no feedback, either at the end of each line or when the proof is complete.  
+Feedback for each line and for the whole proof is only given when you press "Check." As preparation for the test, you should try doing each proof without the feedback for each line. Check the proof when you think that it is complete.
 
 
 ---
