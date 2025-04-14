@@ -11,7 +11,7 @@ There is no feedback, either at the end of each line or when the proof is comple
 
 ---
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent exam" feedback="none" guides="fitch" submission="none"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent exam" feedback="manual" guides="fitch" submission="none"}
 0.1 (M & Q) & ~P :|-: Q & ~P 
 0.2 (P & Q), (L & N) :|-: N & Q
 0.3 S, P, R :|-: (P v Q) & (S & R)
