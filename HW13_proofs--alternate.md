@@ -1,8 +1,8 @@
 ## HW 14 (alternate)
 
+---
 
 Problem 14.5 - 14.9 are each worth 20 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 16 points.
-
 
 ---
 
