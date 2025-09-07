@@ -50,7 +50,7 @@ For 2.11, these sentences go on the lines following the premise, but they do NOT
 2.11 S & T :|-: (T v Q) & S
 ~~~
 
-To do 2.13 - 2.15, see the subsection of 13.3 titled "Double negation." 
+To do 2.13 - 2.15, see the subsection of 12.3 titled "Double negation." 
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="7" late-credit="6"}
 2.12 M v N, ~M :|-: N
