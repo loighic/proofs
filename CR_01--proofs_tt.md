@@ -10,13 +10,15 @@ Each problem is worth 10 points, and the whole assignment is worth 100 points. P
 1.1 (P & Q) & T :|-: P & T
 ~~~
 
-You just have to take one step (and use one rule) to complete the proof in 1.2.
+You just have to take one step and use one rule to complete the proof in 1.2. See section 12.3 for the rule.
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="10" late-credit="8"}
 1.2 P :|-: T v P
 ~~~
 
-See sections 12.1 and 12.2 (or anywhere else in chapter 12) for how to begin when an argument contains more than one premise. 
+See sections 12.1 and 12.2 (or anywhere else in chapter 12) for how to begin a proof when the argument contains more than one premise.
+
+You have to use the conjunction introduction, disjunction introduction, and disjunction elimination rules to do the next two proofs. (Although not all three in either one.) Look at those rules in the textbook closely. For each step of your proof, try to match what's in your proof with one of the rules. And check how many lines have to be give (one or two) when you cite a rule. 
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="10" late-credit="8"} 
 1.3 P, S :|-: S & (T v P)
@@ -60,6 +62,6 @@ See sections 12.1 and 12.2 (or anywhere else in chapter 12) for how to begin whe
 ~~~
 
 
-<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
+<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Scott Johnson</p>
  
 ---
