@@ -2,9 +2,12 @@
 
 ---
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="25" late-credit="20"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="25" late-credit="18"}
 2.1 P -> Q, P & ~T :|-: Q
 2.2 (P -> N) & ~R, P :|-: N
+~~~
+
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="26" late-credit="18"}
 2.3 Q v T, ~S & ~Q :|-: T
 2.4 (~P & ~T) & (T v S) :|-: S & ~P
 ~~~
