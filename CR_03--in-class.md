@@ -6,6 +6,8 @@
 
 (2) Work together. You have plenty of time to complete the assignment. So, don't work ahead of the others in your group.
 
+(3) Use the textbook to check the rules. Don't guess!
+
 ---
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="25" late-credit="20"}
