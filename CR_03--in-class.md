@@ -2,9 +2,9 @@
 
 ---
 
-(1) Make sure that you know everyone's name in your group.
+(1) Make sure that you know the name of everyone in your group.
 
-(2) Work together. You have plenty of time to complete the assignment. So, don't work ahead of the others in your group.
+(2) Work together. You have plenty of time to complete the assignment. Don't work ahead of the others in your group.
 
 (3) Use the textbook to check the rules. Don't guess!
 
