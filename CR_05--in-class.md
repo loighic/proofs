@@ -4,7 +4,7 @@
 
 **warm-up, extra credit problems**
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="1" late-credit="1"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="2" late-credit="1"}
 5.1 (N & R) -> P, N & R :|-: P 
 5.2 ~~S, ~S v T :|-: T
 ~~~
