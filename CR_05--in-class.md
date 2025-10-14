@@ -13,7 +13,7 @@
 
 **main problems**
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="21" late-credit="15"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
 5.3 P <-> N, ~S v P, S :|-: N 
 5.4 T <-> S, T -> W, S :|-: T & W
 5.5 Q -> (P v S), R v Q, ~R :|-: P v S
