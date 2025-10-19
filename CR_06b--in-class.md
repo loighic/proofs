@@ -2,11 +2,11 @@
 
 ---
 
-Create a proof for an argument in the space below. Use at least three different rules. Do this with your group, but everyone in your group should have a different proof with (ideally) some variation among the rules used.
+Create a proof for an argument in the space below. Use at least three different rules. Do this with your group, but everyone in your group should have a different proof with some variation among the rules used.
 
 ---
 
-Begin by listing a premise or some premises, and then work to the conclusion. When you are finished, if the proof is complete and correct, every line will have a `+` at the far right and Carnap will display the premises and conclusion above your proof (but that box won't turn green). **Your argument has to be valid, and to be valid, every line of the proof has to have a `+`.**
+Begin by listing one or more premises, and then work to the conclusion. When you are finished, if the proof is complete and correct, every line will have a `+` at the far right and Carnap will display the premises and conclusion above your proof&mdash;but that box won't turn green. **Your argument has to be valid, and to be valid, every line of the proof has to have a `+`.**
 
 ---
 
