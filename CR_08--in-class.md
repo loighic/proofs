@@ -1,4 +1,4 @@
-## proofs, assignment 08 (in-meeting)
+## proofs, assignment 08 (meeting)
 
 ---
 
