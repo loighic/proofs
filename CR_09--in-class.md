@@ -30,7 +30,9 @@ For **10.1 - 10.4**, there is no feedback, either at the end of each line or whe
 10.8 W -> (Q & R), (R v ~Q) -> ( S & T), T <-> M :|-:  W -> M
 ~~~
 
-🎃 :jack_o_lantern:
+🎃 :jack_o_lantern: 	U+1F383
+
+<font size="6.5">U+1F383</font>
 
 <p>&copy; 2019 - <script>document.write(new Date().getFullYear())</script> Gregory Scott Johnson</p>
 
