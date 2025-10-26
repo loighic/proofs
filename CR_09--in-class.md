@@ -32,7 +32,7 @@ For **10.1 - 10.4**, there is no feedback, either at the end of each line or whe
 
 🎃 :jack_o_lantern: 	U+1F383
 
-<font size="6.5">U+1F383</font>
+<font size="6.5">&#x1F383;</font>
 
 <p>&copy; 2019 - <script>document.write(new Date().getFullYear())</script> Gregory Scott Johnson</p>
 
