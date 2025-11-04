@@ -5,7 +5,7 @@
 Create a proof for an argument in the space below. Use at least four different rules and one of these premises:
 
 <p style="margin-left: 40px;">(P &or; Q) &rarr; (S & &not;T)<br>
-(T & Q) v ~(S v R)<br>
+(T & Q) v &not;(S v R)<br>
 (M & T) &harr; (&not;P &or; W)<br>
 (S &or; &not;Q) &rarr; (M & W)<br></p>
 
