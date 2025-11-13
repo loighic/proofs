@@ -32,11 +32,13 @@ You have to use the negation rules in 0.4 - 0.8.
 0.8 P -> ~Q :|-: ~(P & Q)
 ~~~
 
-Problems 0.9 and 0.10 require two subproofs. In each, you have to use `->I` and either `~E` or `~I`. And for both, the second subproof will be within the first one.
+Problems 0.9 - 0.12 require two subproofs. In each, you have to use `->I` and either `~E` or `~I`. And in all of them, the second subproof will be within the first one.
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" submission="none"}
 0.9 ~P :|-:  P -> Q
 0.10 (B & ~Q) v G :|-: Q -> G
+0.11 ~(P & Q) :|-: P -> ~Q
+0.12 M v T, M -> ~P :|-: P -> T
 ~~~
 
 <p>&copy; 2021 - <script>document.write(new Date().getFullYear())</script> Gregory Johnson.</p> 
