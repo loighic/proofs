@@ -16,7 +16,7 @@ You have to use `&rarr;I` in 0.2 and the assumption should be C.
 0.2 A <-> (C -> D), D & ~B :|-: A
 ~~~
 
-You have to use `&rarr;I` in 0.3 and the assumption should be ~A
+You have to use &rarr;I in 0.3 and the assumption should be ~A
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" submission="none"}
 0.3 (~A -> B) -> C, (A v B) & D :|-: C
