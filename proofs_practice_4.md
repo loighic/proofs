@@ -10,13 +10,13 @@ These are optional, and you can work on them with others. They can't be submitte
 0.1 ~C & ~D, (B v C) <-> (A v D) :|-: A -> B
 ~~~
 
-You have to use conditional intro in 0.2 and the assumption should be C.
+You have to use the conditional introduction rule in 0.2 and the assumption should be C.
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" submission="none"}
 0.2 A <-> (C -> D), D & ~B :|-: A
 ~~~
 
-You have to use conditional intro in 0.3 and the assumption should be &not;A
+You have to use the conditional introduction rule in 0.3 and the assumption should be &not;A
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" submission="none"}
 0.3 (~A -> B) -> C, (A v B) & D :|-: C
@@ -32,7 +32,7 @@ You have to use the negation rules in 0.4 - 0.8.
 0.8 P -> ~Q :|-: ~(P & Q)
 ~~~
 
-Problems 0.9 - 0.12 require two subproofs. In each, you have to use conditional intro and then either negation intro or negation elim. And in all of them, the second subproof will be within the first one.
+Problems 0.9 - 0.12 require two sub-proofs. In each, you have to use the conditional introduction rule and then either the negation introduction rule or negation elimination rule. And in all of them, the second sub-proof will be within the first one.
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" submission="none"}
 0.9 ~P :|-:  P -> Q
