@@ -25,7 +25,7 @@ You have to use the conjunction introduction, disjunction introduction, and disj
 1.4 P v Q, ~P :|-: ~P & Q
 ~~~
 
-~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample autoAtoms" points="10" late-credit="8"}
+~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample autoAtoms nodash" points="10" late-credit="8"}
 1.5 (S v ~T), ~(~S & T)
 ~~~
 
