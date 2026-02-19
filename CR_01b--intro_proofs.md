@@ -8,7 +8,7 @@ Go to section 12.2 in the textbook. The two proofs in this assignment are given 
 
 In 1.11, the first premise is entered for you. Put the cursor after the :PR and hit `enter`. 
 
-Put premise 2 on line 2, hit `tab`, and put :PR. Then hit `enter`. 
+Put premise 2 on line 2 and hit `tab`. Put :PR and hit `enter`. 
 
 Follow the explanation in section 12.2 to complete the proof. Space your TFL sentences correctly.
 
