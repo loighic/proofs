@@ -17,6 +17,8 @@ Follow the explanation in section 12.2 to complete the proof.
 |1.P & Q	:PR
 ~~~
 
+In 1.12, you don't need to use the outermost parentheses, but use parentheses when they are required. You can use parentheses instead of square brackets.
+
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="1" late-credit="1"}
 1.12 (N v P) & (Q & S) :|-: (N v P) & S
 ~~~
