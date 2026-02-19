@@ -2,14 +2,17 @@
 
 ---
 
-Go to section 12.2 in the textbook. The two proofs in this assignment are given at the end of this section.
+Go to section 12.2 in the textbook. The two proofs in this assignment are given at the end of the section.
 
 ---
+
+The first premise is entered for you. Put the cursor after the :PR and hit `enter`. 
+
+Put premise 2---&not;R---on line 2, hit `tab`, and put :PR. Then hit enter. Follow the explanation in section 12.2 to complete the proof.
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="1" late-credit="1"}
 1.11 P & Q, ~R :|-: Q & ~R
 |1.P & Q	:PR
-|2.
 ~~~
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="1" late-credit="1"}
