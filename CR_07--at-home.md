@@ -31,7 +31,11 @@ Problems 8.4 - 8.8 are each worth 20 points, and the whole assignment is worth 1
 8.6 T & Q, (~R v Q) -> S :|-: S & T 
 
 8.7 S <-> (T v (R -> Q)), (S & ~T) & R :|-: Q
+~~~
 
+You need to use the conditional introduction rule in the proof for 8.8. See section 12.7.
+
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render resize" guides="fitch" points="20" late-credit="16"}
 8.8 P v Q :|-: ~Q -> P
 ~~~
 
