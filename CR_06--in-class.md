@@ -1,4 +1,4 @@
-## proofs, assignment 07 (in-class)
+## proofs, assignment 07 (meeting)
 
 ---
 
