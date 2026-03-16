@@ -10,7 +10,7 @@ Problems 8.4 - 8.8 are each worth 20 points, and the whole assignment is worth 1
 
 **warm-up, extra credit problems**
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render resize" guides="fitch" points="2" late-credit="1"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render resize" guides="fitch" points="1" late-credit="1"}
 8.1 R <-> (S & T), S & T :|-: R 
 8.2 P v Q, ~Q :|-: P 
 8.3 M, N v ~M :|-: N
