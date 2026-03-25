@@ -31,6 +31,6 @@ For **10.1 - 10.4**, there is no feedback, either at the end of each line or whe
 ~~~
 
 
-<p>&copy; 2019 - <script>document.write(new Date().getFullYear())</script> Gregory Scott Johnson</p>
+<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Scott Johnson</p>
 
 ---
