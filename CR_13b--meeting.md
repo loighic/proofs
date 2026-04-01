@@ -26,7 +26,7 @@ When you're done, take a photo or a screenshot of your proof and submit it on Ca
 ~~~{.Playground .JohnsonSL init="now" options="fonts tabindent render resize" guides="fitch"}
 ~~~
 
-<p>&copy; 2019 - <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
+<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Scott Johnson</p>
 
 ---
  
