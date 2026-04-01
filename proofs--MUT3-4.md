@@ -2,7 +2,7 @@
 
 ---
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="20"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="16" late-credit="16"}
 4.1 P v Q :|-: ~P -> Q
 4.2 P -> (S & T) :|-: P -> T
 4.3 Q v (R & T) :|-: ~Q -> T
@@ -10,5 +10,9 @@
 4.5 ~S v R, Q & W :|-: S -> (R & W)
 ~~~
 
-<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="20"}
+4.6 ((P v S) -> (~Q ∨ M)) :|-: ((P & Q) -> M)
+~~~
+
+<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Scott Johnson</p>
  
