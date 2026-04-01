@@ -38,6 +38,6 @@ For 14.6, think about which rules you need to use. Don't just automatically go t
 ~~~
 
 
-<p>&copy; 2019 - <script>document.write(new Date().getFullYear())</script> Gregory Scott Johnson</p>
+<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Scott Johnson</p>
 
 ---
