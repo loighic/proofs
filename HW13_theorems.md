@@ -8,7 +8,7 @@ js: https://carnap.io/shared/gregory.s.johnson@gmail.com/copy.js
 
 Each problem is worth 20 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 16 points.
 
-In each problem, the sentence that is after the turnstile is a theorem. That means that a proof can be given with no premises. (Hint: You will have to make an assumption to begin the proof.)
+In each problem, the sentence that is after the turnstile is a theorem. That means that a proof can be given with no premises. So, you will have to make an assumption to begin the proof. When you are making that assumption, think about whether you are going to be using the conditional introduction rule or one of the negation rules.
 
 ---
 
