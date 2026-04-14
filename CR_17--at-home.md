@@ -14,19 +14,19 @@ js: https://carnap.io/shared/gregory.s.johnson@gmail.com/copy.js
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="10" late-credit="8"}
 17.1 (M & S) & Q, (S & Q) -> W :|-: W
 ~~~
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent exam" feedback="manual" guides="fitch" points="10" late-credit="8"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent" feedback="manual" guides="fitch" points="10" late-credit="8"}
 17.2 T & R, (L v R) -> Q :|-: Q
 ~~~
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="10" late-credit="8"}
 17.3 (L & M) <-> T :|-: T -> M
 ~~~
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent exam" feedback="manual" guides="fitch" points="10" late-credit="8"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent" feedback="manual" guides="fitch" points="10" late-credit="8"}
 17.4 S v (T & Q) :|-: ~S -> T
 ~~~
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="10" late-credit="8"}
 17.5 S <-> Q, ~S :|-: ~Q
 ~~~
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent exam" feedback="manual" guides="fitch" points="10" late-credit="8"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent" feedback="manual" guides="fitch" points="10" late-credit="8"}
 17.6 M -> T, ~T :|-: ~M 
 ~~~
 
