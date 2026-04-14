@@ -23,7 +23,7 @@ Problems 0.1 - 0.6 are the same as the proofs that I did in the first set of vid
 0.7 (P & R) v S, ~S  :|-: R
 0.8 ~R, R v (P -> T) :|-: P -> T
 0.9 (P & Q) & (R & T) :|-: Q & R
-0.10 L v M, ~L, R :|-: L & R
+0.10 L v M, ~M, R :|-: L & R
 ~~~
 
 ---
