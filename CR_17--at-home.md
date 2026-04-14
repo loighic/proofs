@@ -37,6 +37,6 @@ js: https://carnap.io/shared/gregory.s.johnson@gmail.com/copy.js
 17.10 ~M v S :|-: ~(M & ~S)
 ~~~
 
-<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Scott Johnson</p>
+<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Scott Johnson :)</p>
  
 ---
