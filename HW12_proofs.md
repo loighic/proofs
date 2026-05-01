@@ -27,21 +27,21 @@ Replace the `?` on line 4, and when you do so, make sure that the &not;H on line
 |F -> (G -> H) :PR
 |~J -> (F v H) :PR
 |F -> G :PR
-|	? :AS
-|		~H :AS
-|		
+| ? :AS
+|  ~H :AS
+|  
 ~~~
 
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" points="20" late-credit="16"}
 12.3 P v Q :|-: Q v P
 |P v Q :PR
-|	~(Q v P) :AS
-|		~P :AS
-|		
-|		
-|		
-|	P
+| ~(Q v P) :AS
+|  ~P :AS
+|  
+|  
+|  
+| P
 | 
 | 
 |Q v P
