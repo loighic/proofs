@@ -18,7 +18,7 @@
 0.7 (P & W) -> Q, W, P  :|-: Q
 0.8 ~Q -> W, T v ~Q, ~T :|-: W
 0.9 P v Q, P -> T, ~Q :|-: ~Q & T
-0.10 (T & W) & R, (T & R) -> (S & W) :|-: W
+0.10 (T & L) & R, (T & R) -> (S & W) :|-: W
 ~~~
 
 <p>&copy; 2021 - <script>document.write(new Date().getFullYear())</script> Gregory Scott Johnson</p> 
