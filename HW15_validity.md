@@ -1,5 +1,6 @@
 ---
-js: https://carnap.io/shared/gregory.s.johnson@gmail.com/copy.js
+js: 
+- https://carnap.io/shared/dsanson@gmail.com/timer.js
 --- 
 
 ---
@@ -13,6 +14,10 @@ There are two versions of each odd numbered problem (15.1, 15.3, 15.5, 15.7, and
 Note that if the argument is invalid, then giving a proof will not be possible. If an argument is valid, then it is possible to complete the truth table, but doing so is worth zero points.
 
 The _proof or truth table_ problems are worth 15 points (and 12 if they are late). The multiple choice questions are worth 5 points (and 4 if they are late).
+
+---
+
+You have 70  minutes to complete this assignment. __Time Remaining: <span id="testTimer">script not loaded</span>__
 
 
 ---
