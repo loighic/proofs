@@ -1,7 +1,3 @@
----
-js: 
-- https://carnap.io/shared/dsanson@gmail.com/timer.js
---- 
 
 ---
 css: https://cdn.jsdelivr.net/gh/carnap/carnap-contrib@9df544f/css/hide-points.css
@@ -17,7 +13,7 @@ The _proof or truth table_ problems are worth 15 points (and 12 if they are late
 
 ---
 
-You have 70  minutes to complete this assignment. __Time Remaining: <span id="testTimer">script not loaded</span>__
+You have 70  minutes to complete this assignment. **Time Remaining: <span id="testTimer">script not loaded</span>**
 
 
 ---
