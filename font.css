@@ -2,3 +2,8 @@
 .your-code-element {
   letter-spacing: normal; /* or letter-spacing: 0; */
 }
+
+.your-code-element {
+  font-variant-ligatures: contextual;
+  font-feature-settings: "calt" 1, "liga" 1;
+}
