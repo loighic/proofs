@@ -1,10 +1,4 @@
 
----
-css: 
-- https://validit.ee/shared/gregory.s.johnson@gmail.com/font.css
----
-
-
 ## playground
 
 ---
