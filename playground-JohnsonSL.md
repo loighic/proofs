@@ -12,7 +12,7 @@ If you are doing multiple proofs, then just refresh the page after each one to c
 
 TFL Playground
 
-~~~{.Playground .JohnsonSL init="now" options="fonts tabindent render resize" guides="fitch"}
+~~~{.Playground .JohnsonSL init="now" options="tabindent render resize" guides="fitch"}
 ~~~
 
 ---
