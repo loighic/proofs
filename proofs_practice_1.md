@@ -1,4 +1,4 @@
-## proofs, practice problems, set 1
+# proofs, practice problems, set 1
 
 ---
 
