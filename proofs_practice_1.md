@@ -1,3 +1,8 @@
+---
+title: practice problems
+---
+
+
 # proofs, practice problems, set 1
 
 ---
