@@ -17,7 +17,8 @@ Each problem is worth 10 points, and the whole assignment is worth 100 points. P
 1 (P & Q) & T :|-: P & T
 ~~~
 
-You just have to take one step and use one rule to complete the proof in 2. See section 12.3 for the rule.
+You just have to take one step and use one rule to complete the proof in 2. See the section "Disjunction intro and elim" in chapter 12 for the rule.
+
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="10" late-credit="8"}
 2 P :|-: T v P
