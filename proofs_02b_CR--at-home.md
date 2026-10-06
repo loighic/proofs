@@ -20,7 +20,7 @@ Use the textbook. Don't guess about the rules.
 1 P & W, T :|-: T & W
 2 M <-> S, P & S :|-: M 
 3 (L & T) & R :|-: T & R
-4 (P -> T), N & P :|-: T
+4 (P -> T), M & P :|-: M & T
 ~~~
 
 <p>&copy; 2019 - <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
