@@ -16,7 +16,7 @@ This is an optional practice assignment. **Time Remaining: <span id="testTimer">
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" points="20" late-credit="20"}
-2 Which one of the following is correct about (&not;P &harr; &not;T), the TFL sentence in the previous problem?
+2 Which one of the following is correct about (P &harr; T), the TFL sentence in the previous problem?
 | This sentence is a tautology
 | This sentence is a contradiction.
 |* This sentence is contingent.
