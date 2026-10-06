@@ -3,7 +3,7 @@ title: optional practice
 ---
 
 
-# practice (and an Honorlock check, before test 3)
+# practice (and an Honorlock check)
 
 ---
 
