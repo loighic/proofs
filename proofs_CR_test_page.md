@@ -27,7 +27,7 @@ This is an optional practice assignment. **Time Remaining: <span id="testTimer">
 ~~~
 
 ~~~{.ProofChecker .JohnsonSL options="tabindent render" guides="fitch" points="20" late-credit="20"}
-4 (P & Q) -> T, P, Q :|-: P
+4 (P & Q) -> T, P, Q :|-: T
 ~~~
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="20"}
