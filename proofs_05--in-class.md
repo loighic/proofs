@@ -14,15 +14,15 @@ title: proofs, assignment 5
 ~~~{.ProofChecker .JohnsonSL options="tabindent render" guides="fitch" points="1" late-credit="1"}
 2 ~~S, ~S v T :|-: T
 |~~S   :PR
-|~S v T   :PR
-| ?   :vE ...
+|~S v T		:PR
+|?		:vE ...
 ~~~
 ~~~{.ProofChecker .JohnsonSL options="tabindent render" guides="fitch" points="1" late-credit="1"}
 3 S, ~S v T :|-: T
 |S	:PR
 |~S v T		:PR
-| ?		:DN 1
-| ?		:vE ...
+|?		:DN 1
+|?		:vE ...
 ~~~
 
 ---
