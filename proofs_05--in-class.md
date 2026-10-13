@@ -8,7 +8,7 @@ title: proofs, assignment 5
 
 ## warm-up, extra credit problems
 
----
+Remove the questions marks and `...` in 2 and 3 and complete the proofs. 
 
 ~~~{.ProofChecker .JohnsonSL options="tabindent render" guides="fitch" points="1" late-credit="1"}
 1 (N & R) -> P, N & R :|-: P
