@@ -8,12 +8,14 @@ title: proofs, assignment 5
 
 ## warm-up, extra credit problems
 
+---
+
 ~~~{.ProofChecker .JohnsonSL options="tabindent render" guides="fitch" points="1" late-credit="1"}
 1 (N & R) -> P, N & R :|-: P
 ~~~
 ~~~{.ProofChecker .JohnsonSL options="tabindent render" guides="fitch" points="1" late-credit="1"}
 2 ~~S, ~S v T :|-: T
-|~~S   :PR
+|~~S		:PR
 |~S v T		:PR
 |?		:vE ...
 ~~~
@@ -28,6 +30,8 @@ title: proofs, assignment 5
 ---
 
 ## main problems
+
+---
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="20" late-credit="16"}
 4 P <-> N, ~S v P, S :|-: N 
