@@ -26,7 +26,7 @@ title: proofs, assignment 6
 
 ---
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="25" late-credit="20"}
+~~~{.ProofChecker .JohnsonSL options="tabindent render" guides="fitch" points="25" late-credit="20"}
 3 P <-> T, S -> T, S :|-: P 
 4 P, (S & W), (P & W) -> Q :|-: Q
 5 M -> (Q v W), T v M, ~T :|-: Q v W
