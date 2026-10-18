@@ -25,7 +25,7 @@ Carol: ... <br></p>
 
 ---
 
-~~~{.Playground .JohnsonSL init="now" options="fonts tabindent render resize" guides="fitch"}
+~~~{.Playground .JohnsonSL init="now" options="tabindent render resize" guides="fitch"}
 ~~~
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
