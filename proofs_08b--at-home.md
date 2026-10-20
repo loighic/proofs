@@ -36,7 +36,7 @@ For 1 & 2, there is no feedback, either at the end of each line or when the proo
 5 S -> T, T -> W :|-:  S -> W
 ~~~
 
-In 6, you have to use the conditional introduction rule to get <font color="#9900FF">(P &rarr; W)</font>. 
+In 6, you have to use the conditional introduction rule to get <font color="#7000CC">(P &rarr; W)</font>. 
 
 There is no way just to remove the <font color="#7000CC">Q</font> from <font color="#7000CC">((P & Q) &rarr; W)</font> and get <font color="#7000CC">(P &rarr; W)</font>.
 
