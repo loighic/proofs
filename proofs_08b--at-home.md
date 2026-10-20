@@ -7,11 +7,11 @@ title: proofs, assignment 9
 
 ---
 
-## instructions
+## Instructions
 
 **This is a contingent assignment.** See the explanation for contingent assignments in the &ldquo;test 2 pre-test assignments&rdquo; module in Canvas.
 
-<font color="#9900FF">**Do this alone.** Contact the instructor if you need help.</font>
+<font color="#0000FF">**Do this alone.** Contact the instructor if you need help.</font>
 
 ---
 
@@ -38,7 +38,7 @@ For 1 & 2, there is no feedback, either at the end of each line or when the proo
 
 In 6, you have to use the conditional introduction rule to get <font color="#9900FF">(P &rarr; W)</font>. 
 
-There is no way just to remove the <font color="#9900FF">Q</font> from <font color="#9900FF">((P & Q) &rarr; W)</font> and get <font color="#9900FF">(P &rarr; W)</font>.
+There is no way just to remove the <font color="#7000CC">Q</font> from <font color="#7000CC">((P & Q) &rarr; W)</font> and get <font color="#7000CC">(P &rarr; W)</font>.
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent resize" guides="fitch" points="20" late-credit="16"}
 6 (P & Q) -> W, T & Q :|-: P -> W
