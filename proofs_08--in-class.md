@@ -21,6 +21,9 @@ For 1 - 3, there is no feedback, either at the end of each line or when the proo
 
 ## main problems
 
+Remember! Only start a sub-proof and make an assumption when you need to get a conditional.
+
+
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent resize" guides="fitch" points="20" late-credit="15"}
 4 Q v (R & T) :|-: ~Q -> T
 5 P -> (Q & T) :|-: P -> Q
