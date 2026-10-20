@@ -50,6 +50,6 @@ Remember, you only start a sub-proof and make an assumption when you want to get
 7 (T & W) v P, (S v T) <-> M, ~P :|-: M & ~P
 ~~~
 
-<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
+<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Scott Johnson</p>
 
 ---
