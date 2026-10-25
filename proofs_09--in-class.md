@@ -37,6 +37,8 @@ For **1 - 4**, there is no feedback, either at the end of each line or when the 
 8 W -> (Q & R), (R v ~Q) -> ( S & T), T <-> M :|-:  W -> M
 ~~~
 
+<font size="6.5">&#x1F383;</font>
+
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Scott Johnson</p>
 
