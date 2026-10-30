@@ -4,6 +4,11 @@ title: t3, revision 5
 
 
 # test 3, revision process, 5
+---
+
+## Instructions
+
+For some of the proofs on this page, you will have to use one of the negation rules. The negation rules will not be on the test 3 re-take, however.
 
 ---
 
