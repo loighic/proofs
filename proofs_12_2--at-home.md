@@ -2,7 +2,7 @@
 title: proofs, assignment 13
 --- 
 
-# proofs, assignment 14 (at-home)
+# proofs, assignment 13 (at-home)
 
 ---
 
