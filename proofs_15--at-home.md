@@ -10,8 +10,6 @@ title: proofs, assignment 16
 
 <font color="#0000FF">**Do this alone**, and don't discuss it with anyone who hasn't done it. If you need help, contact the instructor.</font>
 
----
-
 **Remember!** To begin, see if you can do conjunction elimination, disjunction elimination, conditional elimination, or biconditional elimination. 
 
 Next, determine if you need a conditional. If you  do, then you will need to use the conditional introduction rule. When using this rule, you know what the assumption will be and what will be on the last line of the sub-proof.
