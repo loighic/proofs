@@ -1,12 +1,18 @@
-## proofs, practice problems, set 5
+---
+title: proofs, practice, set 5
+---
+
+# proofs, practice problems, set 5
 
 ---
+
+## Instructions
 
 These are optional, and you can work on them with others.
 
 ---
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" submission="none"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" submission="none"}
 0.1 Q -> P :|-: P v ~Q
 0.2 ~(P v Q) :|-: ~P & ~Q
 0.3 ~(~C v ~(D <-> F)) :|-: C & (D <-> F)
@@ -19,7 +25,7 @@ These are optional, and you can work on them with others.
 
 Theorems: See section 15.1.
 
-~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" submission="none"}
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent" guides="fitch" submission="none"}
 0.9 :|-: ~(B & ~B)
 0.10 :|-: ~(~P & P)
 0.11 :|-: D -> (G -> D)
